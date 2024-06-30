@@ -22,6 +22,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
     let bookBtn = document.getElementById("bookBtn");
     bookBtn.addEventListener("click", function() {
+      // Retrieve the user's name
+      let userName = localStorage.getItem("username");
+
+      if (!userName) {
+        alert("Please log in to make a booking.");
+        return;
+      }
+
       let startDateValue = document.getElementById("startDate").value;
       let endDateValue = document.getElementById("endDate").value;
       let numOfPersons = Number(NoOfPerson.value);
@@ -44,8 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
       let today = new Date();
 
       if (startDate < today) {
-        alert("Start date must be after today for bookings.");
-
+        alert("Start Date must be tomorrow or later.");
         return;
       }
 
@@ -66,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
       // Proceed with booking logic
       let totalAmount = destination[0].price * numOfPersons;
-      alert(`Your booking is completed. Thank you for choosing Tourist Hub.\nBooking Details:\nDestination: ${destination[0].name}\nStart Date: ${startDateValue}\nEnd Date: ${endDateValue}\nNumber of Persons: ${numOfPersons}\nTotal Amount: ₹ ${totalAmount}/-`);
+      alert(`Your booking is completed. Thank you for choosing Tourist Hub.\nBooking Details:\nName: ${userName}\nDestination: ${destination[0].name}\nStart Date: ${startDateValue}\nEnd Date: ${endDateValue}\nNumber of Persons: ${numOfPersons}\nTotal Amount: ₹ ${totalAmount}/-`);
     });
   } else {
     console.error("No destination data available");
