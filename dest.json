@@ -1,0 +1,418 @@
+[
+    {
+        "name": "Tirupati",
+        "location": "Chittoor district of Andhra Pradesh, India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/1200px-Tirumala_090615.jpg",
+        "rating": 85,
+        "price": 1500,
+        "id": "1"
+    },
+    {
+        "name": "Araku Valley",
+        "location": "Visakhapatnam district, Andhra Pradesh, India",
+        "image": "https://vizagtourism.org.in/images/places-to-visit/header/araku-valley-vizag-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "rating": 88,
+        "price": 1350,
+        "id": "2"
+    },
+    {
+        "name": "Amaravathi",
+        "location": "Guntur district, Andhra Pradesh, India",
+        "image": "https://i.pinimg.com/564x/22/45/d1/2245d17c54e03cf3de7cfa945fbf92f4.jpg",
+        "rating": 90,
+        "price": 1600,
+        "id": "3"
+    },
+    {
+        "name": "Gandikota",
+        "location": "Kadapa district, Andhra Pradesh, India",
+        "image": "https://i.pinimg.com/564x/ef/9e/5e/ef9e5e27c479bee1f29541558dedfc43.jpg",
+        "rating": 82,
+        "price": 1450,
+        "id": "4"
+    },
+    {
+        "name": "Vijayawada",
+        "location": "Krishna district, Andhra Pradesh, India",
+        "image": "https://im.hunt.in/cg/vijayawada/City-Guide/Vijayawada-City.jpg",
+        "rating": 78,
+        "price": 1300,
+        "id": "5"
+    },
+    {
+        "name": "Ananthagiri Hills",
+        "location": "Near Hyderabad, Andhra Pradesh, India",
+        "image": "https://i.pinimg.com/564x/c5/30/23/c53023724e7e256e35ea29228d2dc52b.jpg",
+        "rating": 86,
+        "price": 1700,
+        "id": "6"
+    },
+    {
+        "name": "Horsley Hills",
+        "location": "Chittoor district, Andhra Pradesh, India",
+        "image": "https://travelmax.in/wp-content/uploads/2023/10/Best-5-Day-Horsley-Hills-Itinerary_Feature_Image.jpg",
+        "rating": 83,
+        "price": 1400,
+        "id": "7"
+    },
+    {
+        "name": "Rollapadu Wildlife Sanctuary",
+        "location": "Kurnool district, Andhra Pradesh, India",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/4639_20190403094214.jpg",
+        "rating": 80,
+        "price": 1500,
+        "id": "8"
+    },
+    {
+        "name": "Srisailam",
+        "location": "Kurnool district, Andhra Pradesh, India",
+        "image": "https://www.holidify.com/images/bgImages/SRISAILAM.jpg",
+        "rating": 88,
+        "price": 1550,
+        "id": "9"
+    },
+    {
+        "name": "Charminar",
+        "location": "Hyderabad, Telangana, India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Charminar_sumeet_photography_3.JPG/1200px-Charminar_sumeet_photography_3.JPG",
+        "rating": 95,
+        "price": 2000,
+        "id": "10"
+    },
+    {
+        "name": "Secunderabad",
+        "location": "Hyderabad, Telangana, India",
+        "image": "https://cms.tstdc.in/fetch?payload=ed5030d9-0bf3-4b86-a4d8-aa555abfb979.jpg",
+        "rating": 85,
+        "price": 1800,
+        "id": "11"
+    },
+    {
+        "name": "Nagarjuna Sagar",
+        "location": "Nalgonda District, Telangana, India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/NagarjunaSagarDam.JPG",
+        "rating": 90,
+        "price": 2500,
+        "id": "12"
+    },
+    {
+        "name": "Yadadri",
+        "location": "Yadagirigutta, Telangana, India",
+        "image": "https://blogbox.indianeagle.com/wp-content/uploads/2017/10/Yadagirigutta-Yadadri-Temple-Complex-Telangana.jpg",
+        "rating": 88,
+        "price": 1600,
+        "id": "13"
+    },
+    {
+        "name": "Warangal Gate",
+        "location": "Warangal, Telangana, India",
+        "image": "https://live.staticflickr.com/274/19371997342_7fea04df83_b.jpg",
+        "rating": 87,
+        "price": 1500,
+        "id": "14"
+    },
+    {
+        "name": "Kinnerasani Wildlife Sanctuary",
+        "location": "Khammam District, Telangana, India",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/d5/11/4a/kinnerasani-wildlife.jpg",
+        "rating": 80,
+        "price": 1400,
+        "id": "15"
+    },
+    {
+        "name": "Koti Lingala",
+        "location": "Jagtial District, Telangana, India",
+        "image": "https://www.bestbus.in/assets/images/tourist-attractions/Kotilingala-Temple.jpg",
+        "rating": 82,
+        "price": 1300,
+        "id": "16"
+    },
+    {
+        "name": "Medak Cathedral",
+        "location": "Medak, Telangana, India",
+        "image": "https://live.staticflickr.com/5336/10281246496_7f3bf8a20c_b.jpg",
+        "rating": 85,
+        "price": 1200,
+        "id": "17"
+    },
+    {
+        "name": "Bogatha Waterfalls",
+        "location": "Mulugu District, Telangana, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrZmOp6fMT7GeFiUGrJaWoO2qwOBWVqssCA&s",
+        "rating": 88,
+        "price": 400,
+        "id": "18"
+    },
+    {
+        "name": "Red Fort",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/43/78/99/4378991ab78d582ac1fa74f262b8cdb9.jpg",
+        "rating": 95,
+        "price": 2000,
+        "id": "19"
+    },
+    {
+        "name": "Qutub Minar",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/02/93/fd/0293fd033b8eea94a901abe2ee31b451.jpg",
+        "rating": 90,
+        "price": 2500,
+        "id": "20"
+    },
+    {
+        "name": "Humayun's Tomb",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/b8/af/55/b8af55b1981b5240050bf94747c297c0.jpg",
+        "rating": 88,
+        "price": 3000,
+        "id": "21"
+    },
+    {
+        "name": "India Gate",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/d6/2c/f6/d62cf6ed1e3399694c92fef708861ca0.jpg",
+        "rating": 87,
+        "price": 3500,
+        "id": "22"
+    },
+    {
+        "name": "Lotus Temple",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/a2/68/b8/a268b8ee1cc8455ad47203769348dfc3.jpg",
+        "rating": 85,
+        "price": 4000,
+        "id": "23"
+    },
+    {
+        "name": "Akshardham Temple",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/6e/57/21/6e5721247dc7501d6cc4e12371da0f72.jpg",
+        "rating": 89,
+        "price": 3000,
+        "id": "24"
+    },
+    {
+        "name": "Jama Masjid",
+        "location": "Delhi, India",
+        "image": "https://i.pinimg.com/564x/e2/09/10/e209103da0416cf5149f6c62c62aa602.jpg",
+        "rating": 90,
+        "price": 2800,
+        "id": "25"
+    },
+    {
+        "name": "Lodhi Garden",
+        "location": "Delhi, India",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTX-W6FS5Cmy-MYXnxWGSF9qMkb5-uanxFoDhAJiY2A7l7xhWctyfKr8gbOCLjiww_zIOnEN2gUTkMM9axoZpLKMl7cMev3-c1Vqc1M_g",
+        "rating": 86,
+        "price": 3200,
+        "id": "26"
+    },
+    {
+        "name": "Chandni Chowk",
+        "location": "Delhi, India",
+        "image": "https://images.hindustantimes.com/img/2021/09/12/1600x900/89d4980c-13f6-11ec-8f84-d3748427d977_1631471245193.jpg",
+        "rating": 88,
+        "price": 3500,
+        "id": "27"
+    },
+    {
+        "name": "Palolem Beach",
+        "location": "Goa",
+        "image": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/palolam-beach.jpg",
+        "rating": 85,
+        "price": 7000,
+        "id": "28"
+    },
+    {
+        "name": "Arambol Beach",
+        "location": "Goa",
+        "image": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/arombol-beach.jpg",
+        "rating": 88,
+        "price": 8000,
+        "id": "29"
+    },
+    {
+        "name": "Butterfly Beach",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa_New_ttd_imgs/mmt/activities/t_ufs/m_Butterfly%20Beach_1_SS_l_540_959.jpg",
+        "rating": 90,
+        "price": 9000,
+        "id": "30"
+    },
+    {
+        "name": "Varca Beach",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa_New_ttd_imgs/mmt/activities/t_ufs/m_Varca%20Beach%20Goa_1_G_l_480_640.jpg",
+        "rating": 87,
+        "price": 7500,
+        "id": "31"
+    },
+    {
+        "name": "Indian Naval Aviation Museum",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa_New_ttd_imgs/mmt/activities/t_ufs/m_indian%20naval%20aviation%20museum_1_G_l_427_640.jpg",
+        "rating": 92,
+        "price": 10000,
+        "id": "32"
+    },
+    {
+        "name": "Netravali Bubbling Lake",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa_New_ttd_imgs/mmt/activities/t_ufs/m_Netravali%20Bubbling%20Lake_1_G_l_480_640.jpg",
+        "rating": 86,
+        "price": 7800,
+        "id": "33"
+    },
+    {
+        "name": "Majorda Beach",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa_New_ttd_imgs/mmt/activities/t_ufs/m_Majorda%20Beach_1_G_l_480_640.jpg",
+        "rating": 89,
+        "price": 8200,
+        "id": "34"
+    },
+    {
+        "name": "Querim Beach",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa_New_ttd_imgs/mmt/activities/t_ufs/m_Querim%20Beach_1_SS_l_680_1020.jpg",
+        "rating": 91,
+        "price": 9500,
+        "id": "35"
+    },
+    {
+        "name": "Dudhsagar Waterfalls",
+        "location": "Goa",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/goa/mmt/activities/t_ufs/m_activities-goa-dudhsagar-waterfalls_l_400_640.jpg",
+        "rating": 95,
+        "price": 12000,
+        "id": "36"
+    },
+    {
+        "name": "Yelagiri",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/tvdestinationimages/mmt/activities/m_Yelagiri_tv_destination_img_2_l_939_1408.jpg",
+        "rating": 75,
+        "price": 8000,
+        "id": "37"
+    },
+    {
+        "name": "Kodaikanal",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/destimg/mmt/activities/m_Kodaikanal_destjulimg_4_l_1027_1831.jpg",
+        "rating": 78,
+        "price": 8500,
+        "id": "38"
+    },
+    {
+        "name": "Coonoor",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/tvdestinationimages/mmt/activities/m_Coonoor_tv_destination_img_5_l_915_1458.jpg",
+        "rating": 72,
+        "price": 9000,
+        "id": "39"
+    },
+    {
+        "name": "Kanchipuram",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/kanchipuram/mmt/destination/m_Kanchipuram_activity_religious_l_349_523.jpg",
+        "rating": 70,
+        "price": 8000,
+        "id": "40"
+    },
+    {
+        "name": "Vellore",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/tvdestinationimages/mmt/activities/m_Vellore_tv_destination_img_2_l_667_1000.jpg",
+        "rating": 68,
+        "price": 9500,
+        "id": "41"
+    },
+    {
+        "name": "Kotagiri",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/maingalleryimgs/mmt/activities/m_Kotagiri_1_l_667_1000.jpg",
+        "rating": 77,
+        "price": 8200,
+        "id": "42"
+    },
+    {
+        "name": "Coimbatore",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/coimbatore/mmt/destination/m_Coimbatore_l_776_1163.jpg",
+        "rating": 74,
+        "price": 8800,
+        "id": "43"
+    },
+    {
+        "name": "Yercaud",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/desttvimg/mmt/destination/m_Yercaud_tv_destination_img_3_l_569_1010.jpg",
+        "rating": 79,
+        "price": 9300,
+        "id": "44"
+    },
+    {
+        "name": "Chennai",
+        "location": "Tamil Nadu",
+        "image": "https://hblimg.mmtcdn.com/content/hubble/img/dest_img/mmt/activities/m_Chennai_dest_landscape_l_839_1462.jpg",
+        "rating": 80,
+        "price": 10000,
+        "id": "45"
+    },
+        {
+            "name": "Darjeeling Himalayan Railway",
+            "location": "Darjeeling, West Bengal",
+            "image": "https://i.pinimg.com/564x/60/32/cc/6032cc19d877eca96c7c7e0514cca801.jpg",
+            "id": "46"
+        },
+        {
+            "name": "Howrah Bridge",
+            "location": "Kolkata, West Bengal",
+            "image": "https://i.pinimg.com/564x/43/d0/55/43d05527fe738b2c4d607969d0ac6865.jpg",
+            "id": "47"
+        },
+        {
+            "name": "Sundarbans",
+            "location": "Southern West Bengal",
+            "image": "https://i.pinimg.com/564x/56/ed/e6/56ede656911f9623a2cd2adb979936b7.jpg",
+            "id": "48"
+        },
+        {
+            "name": "Digha",
+            "location": "West Bengal",
+            "image": "https://i.pinimg.com/564x/25/42/5a/25425ab82b2e9e22de8cb00be168158e.jpg",
+            "id": "49"
+        },
+        {
+            "name": "Shantiniketan",
+            "location": "West Bengal",
+            "image": "https://i.pinimg.com/564x/8f/77/33/8f773354508c5462e74a82e791b062c7.jpg",
+            "id": "50"
+        },
+        {
+            "name": "Murshidabad",
+            "location": "West Bengal",
+            "image": "https://i.pinimg.com/564x/50/57/48/505748449129e61bd810257de0463155.jpg",
+            "id": "51"
+        },
+        {
+            "name": "Siliguri",
+            "location": "West Bengal",
+            "image": "https://i.pinimg.com/564x/bd/d6/29/bdd629a5b963fb8d0e9ea277cd8fe953.jpg",
+            "id": "52"
+        },
+        {
+            "name": "Jaldapara National Park",
+            "location": "Alipurduar district, West Bengal",
+            "image": "https://i.pinimg.com/564x/76/f7/ef/76f7efe02c23a39ced92d5c5063194dc.jpg",
+            "id": "53"
+        },
+        {
+            "name": "Dakshineswar Kali Temple",
+            "location": "Kolkata, West Bengal",
+            "image": "https://i.pinimg.com/564x/4e/c8/7d/4ec87d6fb08249ef0114adbc1324752a.jpg",
+            "id": "54"
+        }
+    
+    
+]

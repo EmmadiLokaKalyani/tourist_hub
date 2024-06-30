@@ -1,0 +1,134 @@
+#hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("https://wallpaper-house.com/data/out/8/wallpaper2you_292568.jpg");
+    height: 100vh;
+    background-size: cover;
+    animation-name:changeBg;
+    animation-timing-function:step-start;
+    animation-duration:10s;
+    animation-iteration-count:1;
+    animation-delay:0.1s;
+    animation-direction:normal;
+}
+@keyframes changeBg {
+    0%{
+      background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292568.jpg");
+    }
+    25%{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292569.jpg");
+      }
+    50% {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292559.jpg"); 
+    }
+    75% {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url("https://wallpaper-house.com/data/out/9/wallpaper2you_302625.jpg"); 
+      }
+      100% {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292556.jpg"); 
+      }
+    
+  }
+#hero .navbar-brand span{
+ color:#00ddff;
+ font-size:30px;
+ font-weight:500;
+}
+#hero .navbar-brand {
+    color:white;
+    font-size:30px;
+ font-weight:500;
+ margin-left:100px;
+ margin-right:300px;
+ margin-top:20px;
+}
+#hero .nav-link
+{
+    color:white;
+    font-size:20px;
+    font-weight:400;
+    margin-right:20px;
+    margin-top:20px;
+}
+#hero .nav-link span{
+    color:#00ddff;
+   
+}
+#hero .nav-link:hover{
+    background-color:rgba(0, 221, 255,0.5);
+    border-radius:7px;
+
+}
+#content {
+    text-align:center;
+    margin-top:180px;
+    color:white;
+}
+#content-top{
+     font-size:24px;
+}
+#content-p{
+    margin-left:130px;
+    font-size:16px;
+}
+#content h3{
+    font-size:39px;
+    font-weight:700;
+
+}
+#content button
+{
+    padding:10px;
+    margin-top:15px;
+    border-radius:25px;
+    padding-right:29px;
+    padding-left:29px;
+    color:#0a383f;
+}
+button:hover{
+    background-color:rgba(0, 221, 255,0.5);
+    color:#ffffff;
+}
+@media (max-width: 586px) {
+    #hero  {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url("https://wallpaper-house.com/data/out/9/wallpaper2you_302625.jpg");
+    }
+    #hero nav{
+        width:100%;
+    }
+    #hero .nav-link{
+        margin-right:0;
+        margin-top:0;
+    }
+    #hero .navbar-brand{
+     margin-left:0;
+     margin-right:0;
+     margin-top:0;
+    }
+    #content-p{
+        margin-left:0;
+        font-size:14px;
+    }
+    #content h3{
+        font-size:30px;
+    }
+    #content-top{
+        font-size:20px;
+   }
+   @keyframes changeBg {
+    0%{
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://wallpaper-house.com/data/out/9/wallpaper2you_302625.jpg");
+    }
+    25%{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292569.jpg");
+      }
+    50% {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292559.jpg"); 
+    }
+    75% {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292568.jpg"); 
+      }
+      100% {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://wallpaper-house.com/data/out/8/wallpaper2you_292556.jpg"); 
+      }
+    
+  }
+}
