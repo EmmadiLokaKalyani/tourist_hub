@@ -44,7 +44,8 @@ document.addEventListener("DOMContentLoaded", function() {
       let today = new Date();
 
       if (startDate < today) {
-        alert("Start Date must be today or later.");
+        alert("Start date must be after today for bookings.");
+
         return;
       }
 
