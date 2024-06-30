@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Hyderabad, Telangana",
+        "location": "The rich heritage  of Hyderabad through its vibrant food scene.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Charminar_sumeet_photography_3.JPG",
+        "rating": 50,
+        "price": "1000",
+        "id": "1"
+    },
+    {
+        "name": "Rajasthan Food Adventure Tour",
+        "location": "Embark on a Rajasthan food adventure, savoring the diverse.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/be/a6/e7/caption.jpg?w=500&h=400&s=1",
+        "rating": 65,
+        "price": 1100,
+        "id": "2"
+    },
+    {
+        "name": "Mumbai Street Food Safari",
+        "location": "Indulge in a Mumbai street food safari.",
+        "image": "https://img.freepik.com/premium-photo/spicy-street-food-safari_839793-3451.jpg",
+        "rating": 65,
+        "price": 1200,
+        "id": "3"
+    },
+    {
+        "name": "Delhi's Legendary Food",
+        "location": "Taste Delhi's legendary food, a melting pot of Mughlai.",
+        "image": "https://imgcdn.floweraura.com/famous-food-of-delhi.jpg",
+        "rating": 50,
+        "price": 1300,
+        "id": "4"
+    },
+    {
+        "name": "Kerala Cuisine",
+        "location": "Explore Kerala cuisine, a delightful blend of spices.",
+        "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/kerala-food.jpg?tr=w-400",
+        "rating": 70,
+        "price": 1900,
+        "id": "5"
+    },
+    {
+        "name": "Trivandrum Street Food Crawl",
+        "location": "Enjoy a Trivandrum street food crawl.",
+        "image": "https://cdn.getyourguide.com/img/tour/f8e9baab280f51da.png/145.jpg",
+        "rating": 70,
+        "price": 2200,
+        "id": "6"
+    },
+    {
+        "name": "North India Food Adventure Tour",
+        "location": "Experience a North India food adventure.",
+        "image": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/09/26/1288735-food-guide.png?im=Resize=(1280,720)",
+        "rating": 60,
+        "price": 1500,
+        "id": "7"
+    },
+    {
+        "name": "Goa Cuisine",
+        "location": "Delight in Goa cuisine, a Indian culinary traditions.",
+        "image": "https://www.elitehavens.com/magazine/wp-content/uploads/2022/11/Credit_Shores-Threesixtyfive-res.jpg",
+        "rating": 45,
+        "price": 1500,
+        "id": "8"
+    },
+    {
+        "name": "Amritsari Thali, Punjab",
+        "location": "Savor an Amritsar thali, a feast of rich Punjabi flavors .",
+        "image": "https://res.cloudinary.com/purnesh/image/upload/f_auto/v1501662367/bharawan-da-dhaba0.jpg",
+        "rating": 60,
+        "price": 2000,
+        "id": "9"
+    }
+]

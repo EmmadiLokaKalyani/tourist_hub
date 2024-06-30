@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Plan My Trip</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="b.css">
+  </head>
+  <style>
+ #hero {
+    background-color: #ffffff;
+    height: 12vh;
+    background-size: cover;
+
+}
+#hero .navbar-brand span{
+ color:#00ddff;
+ font-size:30px;
+ font-weight:500;
+}
+#hero .navbar-brand {
+    color:#000000;
+    font-size:30px;
+ font-weight:500;
+ margin-left:100px;
+ margin-right:300px;
+ margin-top:10px;
+}
+#hero .nav-link
+{
+    color:#000000;
+    font-size:20px;
+    font-weight:400;
+    margin-right:20px;
+    margin-top:10px;
+}
+#hero .nav-link span{
+    color:#00ddff;
+   
+}
+#hero .nav-link:hover{
+    background-color:rgba(0, 221, 255,0.5);
+    border-radius:7px;
+
+}
+.home
+{
+    width:100%;
+    height:55vh;
+    background-size:cover;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url("https://static.toiimg.com/photo/msid-98176625,width-96,height-65.cms");
+    background-position:center;
+}
+.home h3{
+    margin:9rem 0 0 10rem;
+    font-size:1.9rem;
+    font-weight:600;
+    text-shadow:6px 1px 1px rgb(19, 13, 13);
+}
+.home h4{
+    margin:0.5rem 0 0 10rem;
+    font-size:1.2rem;
+    font-weight:390;
+    width:35rem;
+}
+.bgh{
+    background-color: #151515;
+    height:12vh;
+}
+#hero-down{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    display:flex;
+    align-items: center;
+    background-color:#232323;
+    height:80%;
+    width:88.5%;
+    border-radius:1rem;
+    margin-left: 1.8rem;
+    
+}
+
+.inner h3{
+    color:#ffffff;
+    font-family: sans-serif;
+    font-size:1.2rem;
+    padding-left:2rem;
+    font-weight:400;
+}
+body{
+    background-color:#151515;
+}
+#hero1 .row{
+    margin-left:1rem;
+    background-color:#232323;
+
+    padding:1.2rem 1.3rem 1.2rem 1.3rem;
+    
+}
+
+.card img{
+    height:17rem;
+    border-top-left-radius: 1.3rem;
+    border-top-right-radius: 1.3rem;
+    padding:0.8rem 0.8rem 0 0.8rem;
+}
+.card img {
+    transition: opacity 0.1s ease;
+    
+  }
+
+.card img:hover {
+    opacity: 0.5;
+
+  }
+.card{
+    background-color: #303030;
+    height:32rem;
+    border-radius:1rem;
+}
+.card-body h4{
+    font-size:1rem;
+    color:#E7E7E7;
+}
+.card-body h3{
+    font-size:22px;
+    color:#ffffff;
+}
+.card-body p{
+    font-size:12px;
+    color:#9B9B9B;
+}
+.hero2{
+    background-color: #ffffff;
+}
+a{
+  text-decoration:none;
+}
+@media (max-width: 586px) {
+    .navbar-nav {
+        margin-left: 0;
+    }
+    .navbar-nav a {
+        margin-left: 0;
+    }
+    .navbar-brand img{
+        margin-left:0;
+    }
+    .home{
+        height:45vh;
+    }
+    .home h3{
+        margin:8rem 0 0 3rem;
+        font-size:1.9rem;
+        
+    }
+    .home h4{
+        margin-left:3rem;
+        font-size:1.1rem;
+        width:18rem;  
+    }
+    .inner{
+        margin-left:0;
+    }
+    .inner h3{
+        font-size:1rem;
+        font-weight:540;
+    }
+    #hero1 .row{
+        margin-left:0;
+        margin-right:0rem;
+        padding:0;
+    }
+
+    #hero nav{
+        width:100%;
+    }
+    #hero .nav-link{
+        margin-right:0;
+        margin-top:0;
+    }
+    #hero .navbar-brand{
+     margin-left:0;
+     margin-right:0;
+     margin-top:0;
+    }
+    
+
+}
+@media (min-width: 576px)and (max-width: 1080px)
+{
+    .card img{
+        height:16rem;
+    
+    }
+}
+  </style>
+  <body>
+    <div class="container-fluid" id="hero">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid" id="navbar">
+                <a class="navbar-brand" href="#"><span>Tourist</span> Hub</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="aboutus.html">About us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="./discover.html"> Discover</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="plan.html"><span><i class="fa-solid fa-suitcase-rolling"></i></span> Plan My Trip</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="trips.html">Trips</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="userLoginReg/login.html" id="logdiv">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="userLoginReg/registration.html" id="registerDiv" style="background-color:#00ddff;color:black;border-radius:15px;padding:6px 10px 6px 10px;">Register</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        </div>
+      <div class="home" >
+        <div class="container">
+          <div class="row">
+            <div class="col-5">
+              <h3 class="text-light">Hi, Experienced Voyagers!</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-5 col-sm-12">
+              <h4 class="text-light"> Explore handpicked destinations that blend comfort and adventure.</h4>
+            </div>
+          </div>
+        </div>
+        </div>
+        <div class="container-fluid bgh d-flex" id="hero-down">
+          <div class="inner">
+            <h3> Discover exciting adventures and cool spots just for you</h3>
+          </div>
+        </div>
+        <div class="container" id="hero1">
+          <div class="row my-3 ">
+            <div class="col-md-4 py-3 py-md-0">
+               <a href="age40-2.html"> <div class="card">
+                    <img src="https://odishatour.in/wp-content/uploads/2021/12/Tensa-Nature-Camp-Hill-Station-Sundargarh.jpg?v=1659549692" alt="Hill Stations and Nature Retreats">
+                    <div class="card-body">
+                      <h3>Hill Stations and Nature Retreats</h3>
+                      <p>Escape to serene hill stations and reconnect with nature.</p>
+                      <h4>Experience breathtaking views, cool climates, and lush greenery at India's top hill stations and nature retreats, offering rejuvenation amidst scenic landscapes.</h4>
+                      </div>
+              </div></a>
+            </div>
+            <div class="col-md-4 py-3 py-md-0">
+              <a href="age40-1.html"><div class="card">
+                <img src="https://th.bing.com/th/id/R.544b10a9cf71d3d2d57756fffdcd78e0?rik=ZYcbATTS6b11Vg&riu=http%3a%2f%2fblog.thomascook.in%2fwp-content%2fuploads%2f2014%2f01%2fAlleppey-Backwaters.jpg&ehk=173lZKChTtBcSnEE5%2bJx0mzAP2EUUPRdZ%2feHoHWVzDE%3d&risl=&pid=ImgRaw&r=0" alt="Backwaters">
+                <div class="card-body">
+                  <h3>Backwaters</h3>
+                  <p>Experience tranquility amidst Kerala's picturesque backwaters.</p>
+                  <h4>Cruise through serene waterways, lush green landscapes, and traditional houseboats in Kerala's famous backwaters, offering a unique blend of relaxation and cultural immersion.</h4>
+                    </div>
+            </div></a>
+          </div>
+          <div class="col-md-4 py-3 py-md-0">
+            <a href="age40-3.html">  <div class="card">
+                <img src="https://www.mistay.in/travel-blog/content/images/size/w2000/2020/07/travel-4813658_1920.jpg" alt="Historical sites and landmarks">
+      <div class="card-body">
+        <h3>Historical Sites and Landmarks</h3>
+        <p>Explore the rich history and cultural heritage of India.</p>
+        <h4>Discover ancient temples, majestic forts, and iconic landmarks that narrate India's fascinating history and architectural prowess.</h4>
+                  </div>
+          </div></a>
+        </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 py-3 py-md-0">
+              <a href="age40-4.html">  <div class="card">
+                    <img src="https://th.bing.com/th/id/R.84060f0a57a143b0f7a813f9d68de08b?rik=g2Qqtli3d0BkEQ&riu=http%3a%2f%2fblog.getsholidays.com%2fwp-content%2fuploads%2f2019%2f04%2fshutterstock_1236865684.jpg&ehk=GgBKLOWKK2nLYdv4TVy37nW5U8WCc1ruTTmgoPHF9kA%3d&risl=&pid=ImgRaw&r=0" alt="Coastal Getaways">
+      <div class="card-body">
+        <h3>Coastal Getaways</h3>
+        <p>Relax and unwind at India's picturesque beaches.</p>
+        <h4>Explore sun-kissed shores and crystal-clear waters at India's best beach destinations, offering serene retreats and exciting water sports activities for beach lovers of all ages.</h4>
+                      </div>
+              </div></a>
+            </div>
+            <div class="col-md-4 py-3 py-md-0">
+              <a href="age40-5.html"> <div class="card">
+                <img src="https://th.bing.com/th/id/OIP.wod9QJEXsrCSfxCvPzZdaAHaE8?rs=1&pid=ImgDetMain" alt="Wildlife Sanctuaries">
+      <div class="card-body">
+        <h3>Wildlife Sanctuaries</h3>
+        <p>Explore India's diverse wildlife in natural habitats.</p>
+        <h4>Encounter majestic tigers, rare birds, and diverse ecosystems in India's wildlife sanctuaries, offering thrilling safaris and conservation experiences for nature enthusiasts.</h4>
+                    </div>
+            </div></a>
+          </div>
+          <div class="col-md-4 py-3 py-md-0">
+            <a href="age40-6.html">  <div class="card">
+                <img src="https://th.bing.com/th/id/OIP.PLX0kZjyenH1Pt4KsrF_4gHaEh?rs=1&pid=ImgDetMain" alt="Bird Watching">
+                <div class="card-body">
+                  <h3>Bird Watching</h3>
+                  <p>Discover India's vibrant birdlife in scenic habitats.</p>
+                  <h4>Spot rare species and observe migratory birds in India's picturesque bird watching destinations, offering serene escapes and opportunities for wildlife photography.</h4>
+                  </div>
+          </div></a>
+        </div>
+          </div>
+         
+          </div>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="userLoginReg/logstatus.js"></script>
+  </body>
+</html>

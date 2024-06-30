@@ -1,0 +1,355 @@
+[
+    {
+        "name": "Badrinath Temple",
+        "location": "Uttarakhand",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Badrinath-Temple-1.jpg",
+        "rating": 95,
+        "price": 2500,
+        "id": "1"
+    },
+    {
+        "name": "Sun Temple Konark",
+        "location": "Odisha",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/01/Sun-Temple-Konark-Odisha.jpg",
+        "rating": 92,
+        "price": 2200,
+        "id": "2"
+    },
+    {
+        "name": "Brihadeeswara Temple",
+        "location": "Tamil Nadu",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Brihadeeswara-Temple.jpg",
+        "rating": 93,
+        "price": 2300,
+        "id": "3"
+    },
+    {
+        "name": "Somnath Temple",
+        "location": "Gujarat",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Somnath-Temple.jpg",
+        "rating": 94,
+        "price": 2400,
+        "id": "4"
+    },
+    {
+        "name": "Kedarnath Temple",
+        "location": "Uttarakhand",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Kedarnath-Uttarakhand.jpg",
+        "rating": 91,
+        "price": 2100,
+        "id": "5"
+    },
+    {
+        "name": "Sanchi Stupa",
+        "location": "Madhya Pradesh",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Sanchi-Stupa.jpg",
+        "rating": 90,
+        "price": 2000,
+        "id": "6"
+    },
+    {
+        "name": "Rameshwaram Temple",
+        "location": "Tamil Nadu",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Rameshwaram-Temple.jpg",
+        "rating": 93,
+        "price": 2300,
+        "id": "7"
+    },
+    {
+        "name": "Vaishno Devi Mandir",
+        "location": "Jammu and Kashmir",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Vaishno-Devi-Mandir.jpg",
+        "rating": 96,
+        "price": 2600,
+        "id": "8"
+    },
+    {
+        "name": "Siddhivinayak Temple",
+        "location": "Maharashtra",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Siddhivinayak-Temple.jpg",
+        "rating": 92,
+        "price": 2200,
+        "id": "9"
+    },
+    {
+        "name": "Kashi Vishwanath Temple",
+        "location": "Uttar Pradesh",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Kashi-Vishwanath-Temple.jpg",
+        "rating": 95,
+        "price": 2500,
+        "id": "10"
+    },
+    {
+        "name": "Golden Temple",
+        "location": "Punjab",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Golden-Temple.jpg",
+        "rating": 94,
+        "price": 2400,
+        "id": "11"
+    },
+    {
+        "name": "Gangotri Temple",
+        "location": "Uttarakhand",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Gangotri-Temple-1.jpg",
+        "rating": 91,
+        "price": 2100,
+        "id": "12"
+    },
+    {
+        "name": "Yamunotri Temple",
+        "location": "Uttarakhand",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Yamunotri-Temple.jpg",
+        "rating": 90,
+        "price": 2000,
+        "id": "13"
+    },
+    {
+        "name": "Meenakshi Temple",
+        "location": "Tamil Nadu",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Meenakshi-Temple.jpg",
+        "rating": 93,
+        "price": 2300,
+        "id": "14"
+    },
+    {
+        "name": "Amarnath Temple",
+        "location": "Jammu and Kashmir",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Amarnath-Temple-Jammu-and-Kashmir.jpg",
+        "rating": 92,
+        "price": 2200,
+        "id": "15"
+    },
+    {
+        "name": "Tirupati Balaji",
+        "location": "Andhra Pradesh",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Tirupati-Balaji.jpg",
+        "rating": 95,
+        "price": 2500,
+        "id": "16"
+    },
+    {
+        "name": "Kanchipuram Temples",
+        "location": "Tamil Nadu",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Kanchipuram-Temples.jpg",
+        "rating": 93,
+        "price": 2300,
+        "id": "17"
+    },
+    {
+        "name": "Akshardham Temple",
+        "location": "Delhi",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Akshardham-Temple.jpg",
+        "rating": 94,
+        "price": 2400,
+        "id": "18"
+    },
+    {
+        "name": "Jama Masjid",
+        "location": "Delhi",
+        "image": "https://ihplb.b-cdn.net/wp-content/uploads/2020/08/Jama-Masjid-753x430.jpg",
+        "rating": 88,
+        "price": 1800,
+        "id": "19"
+    },
+    {
+        "name": "Hazratbal Shrine",
+        "location": "Srinagar",
+        "image": "https://ihplb.b-cdn.net/wp-content/uploads/2014/06/Hazratbal-shrine-srinagar.jpg",
+        "rating": 86,
+        "price": 1600,
+        "id": "20"
+    },
+    {
+        "name": "Ajmer Sharif Dargah",
+        "location": "Ajmer",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/AjmerSharif_20191104094925.jpg",
+        "rating": 87,
+        "price": 1700,
+        "id": "21"
+    },
+    {
+        "name": "Fatehpur Sikri",
+        "location": "Uttar Pradesh",
+        "image": "https://ihplb.b-cdn.net/wp-content/uploads/2014/06/Fatehpur-sikri.jpg",
+        "rating": 89,
+        "price": 1900,
+        "id": "22"
+    },
+    {
+        "name": "Char Minar",
+        "location": "Hyderabad",
+        "image": "https://ihplb.b-cdn.net/wp-content/uploads/2014/06/Char-Minar.png",
+        "rating": 85,
+        "price": 1500,
+        "id": "23"
+    },
+    {
+        "name": "Dargah Sahib Mehrauli",
+        "location": "Delhi",
+        "image": "https://ihplb.b-cdn.net/wp-content/uploads/2014/06/dargah-Sahib-Mehrauli.jpg",
+        "rating": 84,
+        "price": 1400,
+        "id": "24"
+    },
+    {
+        "name": "Beemapally Dargah",
+        "location": "Kerala",
+        "image": "https://contendingmodernities.nd.edu/wp-content/uploads/2023/02/0-768x432.jpeg",
+        "rating": 82,
+        "price": 1200,
+        "id": "25"
+    },
+    {
+        "name": "Madrasa",
+        "location": "Kerala",
+        "image": "https://contendingmodernities.nd.edu/wp-content/uploads/2023/02/0-3-335x251.jpeg",
+        "rating": 80,
+        "price": 1000,
+        "id": "26"
+    },
+    {
+        "name": "Bodh Gaya",
+        "location": "Uttar Pradesh",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Bodh-Gaya_20180224224656.jpg",
+        "rating": 90,
+        "price": 1800,
+        "id": "27"
+    },
+    {
+        "name": "Sarnath",
+        "location": "Uttar Pradesh",
+        "image": "https://www.holidify.com/images/bgImages/SARNATH.jpg",
+        "rating": 89,
+        "price": 1700,
+        "id": "28"
+    },
+    {
+        "name": "Mahaparinirvana Temple",
+        "location": "Kushinagar",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/640px-Mahaparinirvana_20190214134824.jpg",
+        "rating": 88,
+        "price": 1600,
+        "id": "29"
+    },
+    {
+        "name": "Shobhnath Temple",
+        "location": "Shobhnath",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/640px-Shobhnath_temple_(5703632908)_20190211181054.jpg",
+        "rating": 87,
+        "price": 1500,
+        "id": "30"
+    },
+    {
+        "name": "Namgyal Monastery",
+        "location": "McLeod Ganj",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/640px-Statue_of_Buddha,_Namgyal_Monastery,_McLeod_Ganj_20190301180510.jpg",
+        "rating": 89,
+        "price": 1700,
+        "id": "31"
+    },
+    {
+        "name": "Tawang Monastery",
+        "location": "Tawang",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/15486105109_b5648a6ce6_z_20190301174846.jpg",
+        "rating": 90,
+        "price": 1800,
+        "id": "32"
+    },
+    {
+        "name": "Ghum Monastery",
+        "location": "Darjeeling",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/134019004_7037a18db1_z_20190301175618.jpg",
+        "rating": 88,
+        "price": 1600,
+        "id": "33"
+    },
+    {
+        "name": "Dhankar Monastery",
+        "location": "Spiti Valley",
+        "image": "https://www.holidify.com/images/attr_square/1831.jpg",
+        "rating": 87,
+        "price": 1500,
+        "id": "34"
+    },
+    {
+        "name": "Vaishali",
+        "location": "Bihar",
+        "image": "https://www.holidify.com/images/bgImages/VAISHALI.jpg",
+        "rating": 86,
+        "price": 1400,
+        "id": "35"
+    },
+    {
+        "name": "Basilica of Bom Jesus",
+        "location": "Goa",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1073481062_20190822145857.jpg",
+        "rating": 86,
+        "price": 1200,
+        "id": "36"
+    },
+    {
+        "name": "Se Cathedral",
+        "location": "Goa",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/pexelsphoto2602998_20200806171104.jpeg",
+        "rating": 56,
+        "price": 1100,
+        "id": "37"
+    },
+    {
+        "name": "Medak Cathedral",
+        "location": "Telangana",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Medakcathedralsideview_20181114200748_20181114201313.png",
+        "rating": 76,
+        "price": 1100,
+        "id": "38"
+    },
+    {
+        "name": "All Saints Church",
+        "location": "Coonoor",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/8090237395_afb02e190a_b_20170913144607.jpg",
+        "rating": 66,
+        "price": 1000,
+        "id": "39"
+    },
+    {
+        "name": "Mount Mary Church",
+        "location": "Mumbai",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/allsaintschurch_20180308110353.jpg",
+        "rating": 46,
+        "price": 1000,
+        "id": "40"
+    },
+    {
+        "name": "St.Andrew's Basilica Arthunkal",
+        "location": "Allepey",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-St._Andrews_Forane_Church_of_Arthunkal_20180413152100.jpg",
+        "rating": 96,
+        "price": 1600,
+        "id": "41"
+    },
+    {
+        "name": "Christ Church",
+        "location": "Shimla",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Simla_ridge01_20170913144816.jpg",
+        "rating": 36,
+        "price": 1200,
+        "id": "42"
+    },
+    {
+        "name": "St.Paul Church Diu",
+        "location": "Diu",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Palayoor_St._Thomas_Syro-Malabar_Church_20180504131906.jpg",
+        "rating": 76,
+        "price": 1300,
+        "id": "43"
+    },
+    {
+        "name": "Santa Cruz Basilica",
+        "location": "Kochi",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Fort_Cochin_cathedral_20171018152251.jpg",
+        "rating": 86,
+        "price": 800,
+        "id": "44"
+    }
+
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Fatehpur Sikri",
+        "location": "Uttar Pradesh",
+        "image": "https://www.airpano.ru/files/fatehpur-sikri-india/images/image4.jpg",
+        "rating": 90,
+        "price": 700,
+        "id": "1"
+    },
+    {
+        "name": "Gol Gumbaz",
+        "location": "Karnataka",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gol_Gumbaj2.JPG/800px-Gol_Gumbaj2.JPG",
+        "rating": 85,
+        "price": 600,
+        "id": "2"
+    },
+    {
+        "name": "Kumbhalgarh Fort",
+        "location": "Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLB0pAqeyK9gmTDgu7_R2NIfTegLxMJiQFxUZkUEC99_8w8MbAGodOP1w20Nl32NoEokU&usqp=CAU",
+        "rating": 95,
+        "price": 900,
+        "id": "3"
+    },
+    {
+        "name": "Mehrangarh Fort",
+        "location": "Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcPJGkdQk88aYabg7e-FE7GWj1ZvM4m8L5ij5P0TbUN0Hb89Uuj2ml4LBEbrFO5vAb_Ig&usqp=CAU",
+        "rating": 92,
+        "price": 800,
+        "id": "4"
+    },
+    {
+        "name": "Bodhgaya",
+        "location": "Bihar",
+        "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/12/shutterstock_402120757-1.webp",
+        "rating": 88,
+        "price": 650,
+        "id": "5"
+    },
+    {
+        "name": "Konark Sun Temple",
+        "location": "Odisha",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1GSaRmOLi2M6khEDPjA_Y-zs6V7QG_BC5vRtiEhx1w48ixWNIKTg8KFFywnjv9OCHj4U&usqp=CAU",
+        "rating": 90,
+        "price": 700,
+        "id": "6"
+    },
+    {
+        "name": "Charminar",
+        "location": "Telangana",
+        "image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-376367,resizemode-75,msid-65273303/news/politics-and-nation/hyderabads-legacy-deserves-world-heritage-tag/charminar-getty.jpg",
+        "rating": 85,
+        "price": 600,
+        "id": "7"
+    },
+    {
+        "name": "Khajuraho Temples",
+        "location": "Madhya Pradesh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVf2YUOamoFrLlNFBr2qNOFlD5kR5gRpF01qkqOJJJaRM-E21dwEUjH2v2xo1153bjTWg&usqp=CAU",
+        "rating": 80,
+        "price": 500,
+        "id": "8"
+    },
+    {
+        "name": "Serene Majuli Island",
+        "location": "Assam",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Doriya_River_of_Majuli.jpg",
+        "rating": 85,
+        "price": 800,
+        "id": "9"
+    }
+]

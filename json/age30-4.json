@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Kanan Devan Hills Plantation, Kerala",
+        "location": "Explore the scenic tea plantations of Kerala.",
+        "image": "https://kdhptea.com/wp-content/uploads/2022/04/0002-370x287.jpg",
+        "rating": 50,
+        "price": 800,
+        "id": "1"
+    },
+    {
+        "name": "Jorhat Tea Bungalows, Assam",
+        "location": "Experience heritage tea bungalows in Assam.",
+        "image": "https://i0.wp.com/kaziranganationalparkassam.in/wp-content/uploads/2018/09/img-20161008-wa00081.jpg?resize=648%2C401&ssl=1",
+        "rating": 80,
+        "price": 900,
+        "id": "2"
+    },
+    {
+        "name": "Gatoonga Tea Estate, Assam",
+        "location": "Visit the serene Gatoonga Tea Estate in Assam.",
+        "image": "https://www.rainforest-alliance.org/wp-content/uploads/2021/07/tea-workers-assam-india-768x512.jpg.optimal.jpg",
+        "rating": 90,
+        "price": 700,
+        "id": "3"
+    },
+    {
+        "name": "Kolukkumalai Tea Estate, Tamil Nadu",
+        "location": "Explore the world's highest tea estate in Tamil Nadu.",
+        "image": "https://www.kolukkumalai.com/kolukkumalai/about-002.jpg",
+        "rating": 50,
+        "price": 1000,
+        "id": "4"
+    },
+    {
+        "name": "Nilgiri Tea Plantations, Tamil Nadu",
+        "location": "Enjoy the beauty of Nilgiri's tea plantations.",
+        "image": "https://clubmahindra.gumlet.io/blog/images/Nilgiri-Tea-Plantations-resized.jpg?w=800&dpr=1.0",
+        "rating": 78,
+        "price": 800,
+        "id": "5"
+    },
+    {
+        "name": "Glenburn Tea Estate, West Bengal",
+        "location": "Experience the heritage of Glenburn Tea Estate.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/17/bd/35/glenburn-tea-estate.jpg?w=700&h=-1&s=1",
+        "rating": 90,
+        "price": 900,
+        "id": "6"
+    },
+    {
+        "name": "Darang Tea Estate, Himachal Pradesh",
+        "location": "Visit Darang Tea Estate in the scenic Himachal Pradesh.",
+        "image": "https://lh3.googleusercontent.com/proxy/RugcBJlIEBwXhXyat49vE7UOF9tvd7xWrV74kqhV6i4GiSx13fyEtZDOWl3MRetBatKwojM_O2JiPdis2nqBqtWOo2T4DWPvHEZYaJxUNPU4Q8qBK5Ydz9wkp9aXc7lcnr67",
+        "rating": 89,
+        "price": 600,
+        "id": "7"
+    },
+    {
+        "name": "Kelagur Tea Estate, Karnataka",
+        "location": "Explore the Kelagur Tea Estate in Karnataka.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/de/f5/b8/megur-homestay.jpg",
+        "rating": 79,
+        "price": 500,
+        "id": "8"
+    },
+    {
+        "name": "Palampur, Himachal Pradesh",
+        "location": "Discover the tea gardens of Palampur.",
+        "image": "https://www.tripsavvy.com/thmb/YKZ7VII5lQGi3irJSCyVyJvHhLo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-521913088-59004f5a5f9b581d595ad50a.jpg",
+        "rating": 68,
+        "price": 700,
+        "id": "9"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Golkonda Fort, Hyderabad",
+        "location": "Hyderabad, Telangana",
+        "image": "https://th.bing.com/th/id/R.064f2b98c3026cb037c9f3b468292fd1?rik=1Y4WCsTJseakjQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-y62A9HnXRr4%2fU7f8wnsQFeI%2fAAAAAAAABq4%2fbxFT15Bc1Xk%2fs1600%2fGolconda-Fort.jpg&ehk=7Oasvei5%2bDyeDf8H3r9lDRcQ2ng8enuiBLSiYeOfEa0%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 85,
+        "price": 1300,
+        "id": "1"
+    },
+    {
+        "name": "Red Fort, Delhi",
+        "location": "Delhi",
+        "image": "https://1.bp.blogspot.com/-1TX305Y0Ea8/U-1fdf48baI/AAAAAAAAAL4/PLlcdevEvh0/s1600/70th%2BIndian%2BIndependence%2BDay%2Bparade%2Band%2Bflag%2Bhoisting%2Bceremony%2B2014%2Blive%2Bonline%2Bwebcast%2Band%2Btelecast.jpg",
+        "rating": 90,
+        "price": 1400,
+        "id": "2"
+    },
+    {
+        "name": "Jallianwala Bagh, Punjab",
+        "location": "Amritsar, Punjab",
+        "image": "https://www.adotrip.com/public/images/areas/master_images/60f80155134b9-Jallianwala_Bagh_Attractions.jpg",
+        "rating": 80,
+        "price": 1250,
+        "id": "3"
+    },
+    {
+        "name": "Rani ki vav, Gujarat",
+        "location": "Patan, Gujarat",
+        "image": "https://th.bing.com/th/id/OIP.gO-y50h3fX3mvHrtv4q3kgHaEK?rs=1&pid=ImgDetMain",
+        "rating": 85,
+        "price": 1350,
+        "id": "4"
+    },
+    {
+        "name": "Victoria Memorial, Kolkata",
+        "location": "Kolkata, West Bengal",
+        "image": "https://www.india-a2z.com/images/VICTORIA-MEMORIAL.jpg",
+        "rating": 90,
+        "price": 1500,
+        "id": "5"
+    },
+    {
+        "name": "Ajanta and Ellora Caves, Maharashtra",
+        "location": "Aurangabad, Maharashtra",
+        "image": "https://th.bing.com/th/id/R.e3e22217514c32d8f2b4a00a85599ff2?rik=QBya2JCWBxxIXw&riu=http%3a%2f%2fwww.qualitytravel.it%2fwp-content%2fuploads%2f2018%2f03%2fajanta-cave-Buddha-1.jpg&ehk=mKUFc8n7j038QfBpDLRHsy13tawHb1%2fRKFPxril2J3g%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 95,
+        "price": 1500,
+        "id": "6"
+    },
+    {
+        "name": "Agra Fort, Uttar Pradesh",
+        "location": "Agra, Uttar Pradesh",
+        "image": "https://th.bing.com/th/id/OIP.rQLYCehpkU73uWDM2T7QLgHaE7?rs=1&pid=ImgDetMain",
+        "rating": 90,
+        "price": 1450,
+        "id": "7"
+    },
+    {
+        "name": "Badami, Karnataka",
+        "location": "Bagalkot, Karnataka",
+        "image": "https://karnatakatourism.org/wp-content/uploads/2020/10/Bhootanatha-Badami.jpg",
+        "rating": 85,
+        "price": 1300,
+        "id": "8"
+    },
+    {
+        "name": "Jantar Mantar, Delhi",
+        "location": "Delhi",
+        "image": "https://trendaroundus.in/wp-content/uploads/2020/09/The-Jantar-Mantar-Delhi-The-Worlds-Largest-Stone-Sundial-e1600388092266.jpg",
+        "rating": 80,
+        "price": 1200,
+        "id": "9"
+    }
+]

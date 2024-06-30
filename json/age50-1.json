@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Holi Festival",
+        "location": "India",
+        "image": "https://www.awazthevoice.in/upload/news/1678088053HOLI_(1).webp",
+        "rating": 85,
+        "price": 800,
+        "id": "1"
+    },
+    {
+        "name": "Lohri Festival",
+        "location": "India",
+        "image": "https://nationaltoday.com/wp-content/uploads/2021/10/Lohri-1200x834.jpg",
+        "rating": 82,
+        "price": 700,
+        "id": "2"
+    },
+    {
+        "name": "Onam Festival",
+        "location": "India",
+        "image": "https://images.news18.com/ibnlive/uploads/2023/08/happy-onam-2023-images-quotes-wishes-messages-cards-greetings-pictures-1-16932530813x2.jpg",
+        "rating": 88,
+        "price": 900,
+        "id": "3"
+    },
+    {
+        "name": "Ramadan Festival",
+        "location": "India",
+        "image": "https://www.india.com/wp-content/uploads/2018/08/ramadan-prayer.jpg",
+        "rating": 90,
+        "price": 1000,
+        "id": "4"
+    },
+    {
+        "name": "Diwali Festival",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG-1yg0dC5guzoLH5bSOaJB5pemAajyz7ZBZ0q60o61cTFIkXFIHDWyamBT8CFw2VGgNg&usqp=CAU",
+        "rating": 86,
+        "price": 850,
+        "id": "5"
+    },
+    {
+        "name": "Eid Festival",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxZcgUy6uGdLKioQhs9JX6jJtDCgxvXpm4hUabCgv44FfeGuLcT7Moo-2WDB12TNoQto&usqp=CAU",
+        "rating": 83,
+        "price": 750,
+        "id": "6"
+    },
+    {
+        "name": "Christmas Festival",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUBheVbhYwdJJZxW_i5WRgaFmkJdAaFm2r6zHIKzp00moLPI4M3hVjOKyMz7bHrE_E28&usqp=CAU",
+        "rating": 87,
+        "price": 950,
+        "id": "7"
+    },
+    {
+        "name": "Ganesh Chaturthi Festival",
+        "location": "India",
+        "image": "https://utsav.gov.in/public/uploads/event_cover_image/event_36/16570203691732483641.jpg",
+        "rating": 89,
+        "price": 980,
+        "id": "8"
+    },
+    {
+        "name": "Pongal Festival",
+        "location": "India",
+        "image": "https://www.sikkimexpress.com/uploads/news/750-380/ccedce0673591a57e4e424a7a328c236.jpg",
+        "rating": 84,
+        "price": 820,
+        "id": "9"
+    }
+]

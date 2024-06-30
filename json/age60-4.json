@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Durga Puja",
+        "location": "West Bengal",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSudwfJqN0i7ZtJjNa8Ps9D7Lf9ESyV7Gs4bKHJuFEDSM2TLWMSQvWBw6ymxPz-IQ-Pg&usqp=CAU",
+        "rating": 85,
+        "price": 800,
+        "id": "1"
+    },
+    {
+        "name": "Thrissur Pooram",
+        "location": "Kerala",
+        "image": "https://www.memeraki.com/cdn/shop/articles/1024px-Thrissur_pooram_aanachamayam_1024x.jpg?v=1687532107",
+        "rating": 90,
+        "price": 1000,
+        "id": "2"
+    },
+    {
+        "name": "Incredible Rann Utsav",
+        "location": "Gujarat",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-PMruPLdIhAHaIRxrD1hn3amY_5UXqdlK90rRM1EfiFtCeUN1hAr3H-J6p5HqbbD_oM&usqp=CAU",
+        "rating": 88,
+        "price": 1200,
+        "id": "3"
+    },
+    {
+        "name": "Pushkar Camel Fair",
+        "location": "Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTespX7uw6z7L7fSf3BDHGsP3SwPGWWwcDcoR3AjerNlNxH20CtTT2BHrr5UDrGUbRWYMU&usqp=CAU",
+        "rating": 85,
+        "price": 1100,
+        "id": "4"
+    },
+    {
+        "name": "Goa Carnival",
+        "location": "Goa",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUr1RFJuh4uRSBs2cOkP_xKuKe5sPbdpms4kNBSQsGKuDuUG4fakac3fx8Ii7l-RuNQ94&usqp=CAU",
+        "rating": 82,
+        "price": 1000,
+        "id": "5"
+    },
+    {
+        "name": "Konark Dance Festival",
+        "location": "Odisha",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8f6imqiz1ShNySRGrT4MKU0Xrs9sHesYr0FPFBL8J8lr7TjwJevEopCDIRs4MvT7c1mU&usqp=CAU",
+        "rating": 88,
+        "price": 1300,
+        "id": "6"
+    },
+    {
+        "name": "Hampi Festival",
+        "location": "Karnataka",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIbU0hwd3bLouEZMqbQZkIkj5ylIrf8vGMnKzAcJCt6DV7wb27CpgYK9RrdcxYn1Hars&usqp=CAU",
+        "rating": 86,
+        "price": 1100,
+        "id": "7"
+    },
+    {
+        "name": "Bohag Bihu",
+        "location": "Assam",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncYavK8DNZbV6MY_BofRi0EaSo8s_CEUBAfiGVQLNZs6MKQMLqNnVrQwXJKHohwTSpqU&usqp=CAU",
+        "rating": 80,
+        "price": 900,
+        "id": "8"
+    },
+    {
+        "name": "Chatrapathi Shivaji Maharaj Jayanti",
+        "location": "Maharashtra",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tJQ1vj54j3bUTfdWYyy2z5dYXw6wC8Rw1Wd-9l4mKej4mVDa1dRc8BQo_6ExFkBiRZ0&usqp=CAU",
+        "rating": 75,
+        "price": 1500,
+        "id": "9"
+    }
+]

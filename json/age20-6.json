@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Mumbai. Maharashtra",
+        "location": "Mumbai, the city that never sleeps, and diverse cultural experiences.",
+        "image": "https://s3.india.com/travel/wp-content/uploads/2014/09/Mumbai-skyline-625x470.jpg",
+        "rating": 95,
+        "price": 2800,
+        "id": "1"
+    },
+    {
+        "name": "Kolkata. West Bengal",
+        "location": "The cultural capital of India, enchants with its literary heritage and vibrant festivals.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kolkata_City_skyline_from_Hoogly_bridge.jpg/288px-Kolkata_City_skyline_from_Hoogly_bridge.jpg",
+        "rating": 85,
+        "price": 1800,
+        "id": "2"
+    },
+    {
+        "name": "Delhi. India",
+        "location": "A blend of history and modernity, its rich heritage and bustling markets.",
+        "image": "https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg",
+        "rating": 70,
+        "price": 1600,
+        "id": "3"
+    },
+    {
+        "name": "Chennai. Tamilnadu",
+        "location": "The gateway to South India, charms with its classical music, dance, and temples.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg",
+        "rating": 80,
+        "price": 1700,
+        "id": "4"
+    },
+    {
+        "name": "Hyderabad. Telangana",
+        "location": "A city of pearls and mesmerizes with its historical landmarks and culinary delights.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Charminar_sumeet_photography_3.JPG",
+        "rating": 65,
+        "price": 1500,
+        "id": "5"
+    },
+    {
+        "name": "Bangalore. Karnataka",
+        "location": "The Silicon Valley of India.",
+        "image": "https://static.thehosteller.com/hostel/images/Cover%20(1).jpg/Cover%20(1)-1690261803767.jpg",
+        "rating": 50,
+        "price": 1200,
+        "id": "6"
+    },
+    {
+        "name": "Ahmedabad. Gujarat",
+        "location": "The heart of Gujarat, boasts a rich history, and exquisite cuisine.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Amdavad_Aerial.jpg",
+        "rating": 50,
+        "price": 1600,
+        "id": "7"
+    },
+    {
+        "name": "Jaipur. Rajasthan",
+        "location": "The Pink City, dazzles with its royal palaces, and traditional Rajasthani culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+        "rating": 70,
+        "price": 1700,
+        "id": "8"
+    },
+    {
+        "name": "Vishakhapatnam. Andhra Pradesh",
+        "location": "A coastal gem, offers serene beaches, scenic landscapes, and a rich maritime history.",
+        "image": "https://static.toiimg.com/photo/105664127.cms",
+        "rating": 50,
+        "price": 1000,
+        "id": "9"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Mahabat Maqbara",
+        "location": "Junagadh, Gujarat",
+        "image": "https://static.toiimg.com/photo/67885642/ed.jpg?width=748&resize=4",
+        "rating": 85,
+        "price": 4500,
+        "id": "1"
+    },
+    {
+        "name": "Qutub Minar",
+        "location": "Delhi",
+        "image": "https://th.bing.com/th/id/R.d6361bf60474d0bebd0163df5fe9d35d?rik=0UaPDSoqHhmX%2fw&riu=http%3a%2f%2fwww.bhavyaholidays.com%2fblogs%2fwp-content%2fuploads%2f2014%2f03%2fQutub-Minar-Delhi.jpg&ehk=jWlKgqANH%2fF%2bw6HhyTVcTSv5SvBoOfR%2b6%2faLVNTUoto%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 90,
+        "price": 5000,
+        "id": "2"
+    },
+    {
+        "name": "Charminar",
+        "location": "Hyderabad, Telangana",
+        "image": "https://www.southerntravelsindia.com/EntityImage/428.jpg",
+        "rating": 80,
+        "price": 4000,
+        "id": "3"
+    },
+    {
+        "name": "Gateway of India",
+        "location": "Mumbai, Maharashtra",
+        "image": "https://th.bing.com/th/id/OIP.9LwnUW9w1i6nzyLTC_5WTwHaE8?w=1920&h=1280&rs=1&pid=ImgDetMain",
+        "rating": 88,
+        "price": 6000,
+        "id": "4"
+    },
+    {
+        "name": "Bidar",
+        "location": "Bidar, Karnataka",
+        "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/Fort_Garden_bidar.jpg",
+        "rating": 75,
+        "price": 4500,
+        "id": "5"
+    },
+    {
+        "name": "Statue of Unity",
+        "location": "Kevadia, Gujarat",
+        "image": "https://vandanatravels.com/assets/upload/domestic/domestic_slider/sale3.jpg",
+        "rating": 92,
+        "price": 5500,
+        "id": "6"
+    },
+    {
+        "name": "Brihadeshwara Temple",
+        "location": "Thanjavur, Tamil Nadu",
+        "image": "https://lotustours.in/assets/img/home/places/photo-services-1-2.jpg",
+        "rating": 85,
+        "price": 5000,
+        "id": "7"
+    },
+    {
+        "name": "Hampi",
+        "location": "Hampi, Karnataka",
+        "image": "https://www.worldatlas.com/r/w1200/upload/ff/49/57/shutterstock-1509720656.jpg",
+        "rating": 95,
+        "price": 6000,
+        "id": "8"
+    },
+    {
+        "name": "Surender Temple",
+        "location": "Sundernagar, Himachal Pradesh",
+        "image": "https://2.bp.blogspot.com/-eSRyRNIeb0U/WIzeYNORdzI/AAAAAAAAxYo/P66vUNY-xngtZAh2f0ZpiMq3eA0Y-121gCLcB/s320/8284417230_712b2ccef2_k.jpg",
+        "rating": 80,
+        "price": 4000,
+        "id": "9"
+    }
+]

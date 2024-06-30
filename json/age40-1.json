@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Kumarakom Backwaters",
+        "location": "Kumarakom, Kerala",
+        "image": "https://www.picnicwale.com/attractions/assets/sightseeing/kumarakom-backwater-in-kerala-banner.jpg",
+        "rating": 85,
+        "price": 3000,
+        "id": "1"
+    },
+    {
+        "name": "Kollam Backwaters",
+        "location": "Kollam, Kerala",
+        "image": "https://therovingheart.com/wp-content/uploads/2016/11/DSC_0093.jpg",
+        "rating": 78,
+        "price": 2500,
+        "id": "2"
+    },
+    {
+        "name": "Kuttanad Backwater Cruise",
+        "location": "Kuttanad, Kerala",
+        "image": "https://media1.thrillophilia.com/filestore/gd5rxhp4u4lxjhny51ialdq1yrqh_1589356975_15.jpg",
+        "rating": 88,
+        "price": 4000,
+        "id": "3"
+    },
+    {
+        "name": "Kozhikode Backwaters",
+        "location": "Kozhikode, Kerala",
+        "image": "https://www.holidify.com/images/compressed/attractions/attr_2345.jpg",
+        "rating": 80,
+        "price": 3500,
+        "id": "4"
+    },
+    {
+        "name": "Alleppey Backwaters",
+        "location": "Alleppey, Kerala",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/cc/95/14/alleppey-backwater-tour.jpg?w=1200&h=900&s=1",
+        "rating": 92,
+        "price": 4500,
+        "id": "5"
+    },
+    {
+        "name": "Kochi Backwaters",
+        "location": "Kochi, Kerala",
+        "image": "https://www.tourism-of-india.com/pictures/tourintro/mystical-backwaters-of-kerala-969.jpeg",
+        "rating": 85,
+        "price": 3000,
+        "id": "6"
+    },
+    {
+        "name": "Anchuthengu Backwaters",
+        "location": "Anchuthengu, Kerala",
+        "image": "https://village.kerala.gov.in/smartoffice/DCMS/articles/ARTICLE_2021-08-27193559_anchuthengu%20backwaters.jpg",
+        "rating": 75,
+        "price": 2000,
+        "id": "7"
+    },
+    {
+        "name": "Cherai Island Backwaters",
+        "location": "Cherai Island, Kerala",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/ce/3f/6e/sunrise-over-the-backwaters.jpg",
+        "rating": 70,
+        "price": 2500,
+        "id": "8"
+    },
+    {
+        "name": "Kavvayi Backwaters",
+        "location": "Kavvayi, Kerala",
+        "image": "https://kannurairport.aero/kial/public/uploads/destination_img/AJxJInFAPxzckJBnnFDLxDCOCtVasb.jpg",
+        "rating": 90,
+        "price": 4000,
+        "id": "9"
+    }
+]

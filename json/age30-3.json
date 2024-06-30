@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Darjeeling, West Bengal",
+        "location": "Explore the scenic beauty of Darjeeling.",
+        "image": "https://www.holidify.com/images/bgImages/DARJEELING.jpg",
+        "rating": 80,
+        "price": 10000,
+        "id": "1"
+    },
+    {
+        "name": "Manali, Himachal Pradesh",
+        "location": "Enjoy the picturesque landscapes of Manali.",
+        "image": "https://www.holidify.com/images/bgImages/MANALI.jpg",
+        "rating": 90,
+        "price": 12000,
+        "id": "2"
+    },
+    {
+        "name": "Shillong, Meghalaya",
+        "location": "Discover the natural beauty of Shillong.",
+        "image": "https://www.holidify.com/images/bgImages/SHILLONG.jpg",
+        "rating": 70,
+        "price": 11000,
+        "id": "3"
+    },
+    {
+        "name": "Wayanad, Kerala",
+        "location": "Experience the lush greenery of Wayanad.",
+        "image": "https://www.holidify.com/images/bgImages/WAYANAD.jpg",
+        "rating": 85,
+        "price": 13000,
+        "id": "4"
+    },
+    {
+        "name": "Auli, Uttarakhand",
+        "location": "Enjoy skiing and panoramic views in Auli.",
+        "image": "https://www.holidify.com/images/bgImages/UTTARAKHAND.jpg",
+        "rating": 75,
+        "price": 14000,
+        "id": "5"
+    },
+    {
+        "name": "Mussoorie, Uttarakhand",
+        "location": "Explore the 'Queen of Hills', Mussoorie.",
+        "image": "https://static.toiimg.com/photo/msid-96618531,width-96,height-65.cms",
+        "rating": 90,
+        "price": 15000,
+        "id": "6"
+    },
+    {
+        "name": "Ooty, Tamil Nadu",
+        "location": "Visit the serene landscapes of Ooty.",
+        "image": "https://1.bp.blogspot.com/-E_cV1aBdWNA/VYriVCD5rQI/AAAAAAAAB8Y/Hnxj9MViJJ8/s1600/Ooty%2Bharstuff.jpg",
+        "rating": 65,
+        "price": 10000,
+        "id": "7"
+    },
+    {
+        "name": "Kasol, Himachal Pradesh",
+        "location": "Experience the hippie culture of Kasol.",
+        "image": "https://moxtain.s3.ap-south-1.amazonaws.com/blogs/Kasol/pravati-valley-kasol.jpg",
+        "rating": 96,
+        "price": 9000,
+        "id": "8"
+    },
+    {
+        "name": "Mahabaleshwar, Maharashtra",
+        "location": "Enjoy the hill station charm of Mahabaleshwar.",
+        "image": "https://www.indianholidaytrip.com/upload/static/images/Mahabaleshwar.jpg",
+        "rating": 97,
+        "price": 8000,
+        "id": "9"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Narendra Modi Stadium, Gujarat",
+        "location": "Ahmedabad, Gujarat",
+        "image": "https://th.bing.com/th/id/OIP.iG-9XxxULlpVhl5fiGNzvQHaEK?rs=1&pid=ImgDetMain",
+        "rating": 95,
+        "price": 7000,
+        "id": "1"
+    },
+    {
+        "name": "Birsa Munda Hockey Stadium, Odisha",
+        "location": "Rourkela, Odisha",
+        "image": "https://th.bing.com/th/id/OIP.W4e_ygNeb2uoRx3OKRP1yQHaEA?rs=1&pid=ImgDetMain",
+        "rating": 85,
+        "price": 6500,
+        "id": "2"
+    },
+    {
+        "name": "Salt Lake Stadium, Kolkata",
+        "location": "Kolkata, West Bengal",
+        "image": "https://thebridge.in/h-upload/2021/04/23/3489-the-salt-lake-stadium-kolkata.jpg",
+        "rating": 90,
+        "price": 8000,
+        "id": "3"
+    },
+    {
+        "name": "Indira Gandhi Arena, Delhi",
+        "location": "Delhi",
+        "image": "https://www.shashiprabhu.com/images/projects/sports/indira-gandhi-indoor-stadium/img1.jpg",
+        "rating": 88,
+        "price": 7500,
+        "id": "4"
+    },
+    {
+        "name": "Rajiv Gandhi International Stadium, Hyderabad",
+        "location": "Hyderabad, Telangana",
+        "image": "https://www.ekaadhar.com/wp-content/uploads/2023/04/Rajiv-Gandhi-International-Stadium-Hyderabad-Pitch-Report-1024x536.jpg",
+        "rating": 92,
+        "price": 8500,
+        "id": "5"
+    },
+    {
+        "name": "JRD Tata Sports Complex, Jharkhand",
+        "location": "Jamshedpur, Jharkhand",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/8d/16/70/jrd-tata-sports-complex.jpg",
+        "rating": 87,
+        "price": 5000,
+        "id": "6"
+    },
+    {
+        "name": "Greenfield International Stadium, Kerala",
+        "location": "Thiruvananthapuram, Kerala",
+        "image": "https://th.bing.com/th/id/R.b8e9d4415645f3a524f460d10c736ae0?rik=9VVRN88OF%2fBbeA&riu=http%3a%2f%2fwww.crictotal.com%2fgrounds%2fgifs%2f00228.jpg&ehk=7FJOmlAHfWpEQDcSjyhV3vyjMD%2ba78pvAHXPQi%2bSVdU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "rating": 89,
+        "price": 9000,
+        "id": "7"
+    },
+    {
+        "name": "Jawaharlal Nehru Indoor Stadium, Chennai",
+        "location": "Chennai, Tamil Nadu",
+        "image": "https://fastly.4sqi.net/img/general/600x600/105280_pBx_1vvBUrmVgo32jvbjOG5PTwam8vrOMY479IPADrA.jpg",
+        "rating": 85,
+        "price": 6000,
+        "id": "8"
+    },
+    {
+        "name": "Wankhede Stadium, Mumbai",
+        "location": "Mumbai, Maharashtra",
+        "image": "https://www.cricwindow.com/images/stadiums/wankhede_stadium.jpg",
+        "rating": 95,
+        "price": 10000,
+        "id": "9"
+    }
+]

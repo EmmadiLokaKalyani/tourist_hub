@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Periyar National Park",
+        "location": "Kerala",
+        "image": "https://www.keralatourism.org/images/destination/mobile/periyar_tiger_reserve_thekkady20131106141847_192_1.jpg",
+        "rating": 90,
+        "price": 1500,
+        "id": "1"
+    },
+    {
+        "name": "Manas Wildlife Sanctuary",
+        "location": "Assam",
+        "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2020/03/manas-wildlife-sanctuary.jpg",
+        "rating": 85,
+        "price": 1400,
+        "id": "2"
+    },
+    {
+        "name": "Bandhavgarh National Park",
+        "location": "Madhya Pradesh",
+        "image": "https://www.bandhavgarhnationalpark.in/uploads/0000/25/2022/03/09/bandhavgarh-wildlife.JPG",
+        "rating": 88,
+        "price": 1500,
+        "id": "3"
+    },
+    {
+        "name": "Sariska Tiger Reserve",
+        "location": "Rajasthan",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/b2/77.jpg",
+        "rating": 80,
+        "price": 1300,
+        "id": "4"
+    },
+    {
+        "name": "Ranthambore National Park",
+        "location": "Rajasthan",
+        "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/RanthamboreWildlife.jpg",
+        "rating": 95,
+        "price": 1500,
+        "id": "5"
+    },
+    {
+        "name": "Kutch Desert Wildlife Sanctuary",
+        "location": "Gujarat",
+        "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/kutch-desert-sanctuary/Kutch-Desert-Sanctuary-Thumbnail.jpg",
+        "rating": 82,
+        "price": 1200,
+        "id": "6"
+    },
+    {
+        "name": "Chilika Wildlife Sanctuary",
+        "location": "Odisha",
+        "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2020/03/Chilika-Wildlife-Sanctuary.jpg",
+        "rating": 78,
+        "price": 1100,
+        "id": "7"
+    },
+    {
+        "name": "Indian Wild Ass Sanctuary",
+        "location": "Gujarat",
+        "image": "https://forests.gujarat.gov.in/writereaddata/images/wild-ass-img-3-big.jpg",
+        "rating": 85,
+        "price": 1300,
+        "id": "8"
+    },
+    {
+        "name": "Srivilliputhur Grizzled Squirrel Wildlife Sanctuary",
+        "location": "Tamil Nadu",
+        "image": "https://www.tamilnadutourism.com/images/attractions/card/wildlife/grizzled-squirrel-sanctuary.jpg",
+        "rating": 80,
+        "price": 1400,
+        "id": "9"
+    }
+]

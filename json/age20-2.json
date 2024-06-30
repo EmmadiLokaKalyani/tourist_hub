@@ -1,0 +1,73 @@
+[{
+    "name": "Corinthians Resort and Club, Pune",
+    "location": "Pune, Maharashtra",
+    "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200706180923288334-02ac7e3eee2111ecacc50a58a9feac02.jpg",
+    "rating": 60,
+    "price": "1200",
+    "id": "1"
+},
+{
+    "name": "Resort Rio, Goa",
+    "location": "Goa",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/fa/6c/3a/resort-rio.jpg?w=700&h=-1&s=1",
+    "rating": 70,
+    "price": 1800,
+    "id": "2"
+},
+{
+    "name": "Kumarakom Lake Resort, Kerala",
+    "location": "Kerala",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/97/92/24/kumarakom-lake-resort.jpg?w=700&h=-1&s=1",
+    "rating": 95,
+    "price": 3000,
+    "id": "3"
+},
+{
+    "name": "Hotel Brown Palace, Kashmir",
+    "location": "Pahalgam, Kashmir",
+    "image": "https://brownpalace.thedubrovnikhotels.net/data/Images/OriginalPhoto/5261/526176/526176054/pahalgam-image-42.JPEG",
+    "rating": 50,
+    "price": 1300,
+    "id": "4"
+},
+{
+    "name": "Leonia Holistic Destination Resort",
+    "location": "Hyderabad, Telangana",
+    "image": "https://cdn0.weddingwire.in/vendor/0400/3_2/960/jpg/a-dream-come-true_15_10400.jpeg",
+    "rating": 80,
+    "price": 1700,
+    "id": "5"
+},
+{
+    "name": "The Gateway Hotel Beach Road",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "image": "https://r1imghtlak.mmtcdn.com/bc16c652e43011e989df0242ac110003.jpg",
+    "rating": 50,
+    "price": 1200,
+    "id": "6"
+},
+{
+    "name": "Bundelkhand Riverside, Madhya Pradesh",
+    "location": "Orchha, Madhya Pradesh",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ab/2d/6f/evenings-in-the-garden.jpg?w=700&h=-1&s=1",
+    "rating": 55,
+    "price": 1600,
+    "id": "7"
+},
+{
+    "name": "Shree Parijat Resort, Uttarakhand",
+    "location": "Uttarakhand",
+    "image": "https://r2imghtlak.ibcdn.com/r2-mmt-htl-image/htl-imgs/202301021622097448-1b19878898bb11edb7ca0a58a9feac02.jpg?downsize=634:357",
+    "rating": 65,
+    "price": 1700,
+    "id": "8"
+},
+{
+    "name": "Dungmali Heritage Resort, Sikkim",
+    "location": "Kalimpong, West Bengal",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e2/aa/e4/dungmali-heritage-resort.jpg",
+    "rating": 60,
+    "price": 1500,
+    "id": "9"
+}
+]

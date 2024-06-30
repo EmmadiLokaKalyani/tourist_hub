@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Munnar, Kerala",
+        "location": "Munnar in Kerala is a picturesque hill station known for its tea plantations.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Munnar_hill_station_.JPG/1200px-Munnar_hill_station_.JPG",
+        "rating": 95,
+        "price": 2500,
+        "id": "1"
+    },
+    {
+        "name": "Kodaikanal, Tamil Nadu",
+        "location": "Is a charming hill station.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi5AV7AA84amTUDtzBP4Ass-dOaT-ufTJJg&s",
+        "rating": 85,
+        "price": 2000,
+        "id": "2"
+    },
+    {
+        "name": "Maredumilli, Andhra Pradesh",
+        "location": "Maredumilli in Andhra Pradesh offersrich biodiversity.",
+        "image": "https://www.maredumilli.net/assets/images/maredumilli-forest-resorts-800x500.jpg",
+        "rating": 80,
+        "price": 1700,
+        "id": "3"
+    },
+    {
+        "name": "Majuli, Assam",
+        "location": "Majuli, the world's largest river island in Assam.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Doriya_River_of_Majuli.jpg/1200px-Doriya_River_of_Majuli.jpg",
+        "rating": 60,
+        "price": 1300,
+        "id": "4"
+    },
+    {
+        "name": "Lahaul Spiti, Himachal Pradesh",
+        "location": "Spiti in Himachal Pradesh is a high-altitude desert.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kardhang_Biling_Bhaga_Dhauladhar_Oct22_A7C_04645.jpg/1200px-Kardhang_Biling_Bhaga_Dhauladhar_Oct22_A7C_04645.jpg",
+        "rating": 50,
+        "price": 1200,
+        "id": "5"
+    },
+    {
+        "name": "Khonoma Village, Nagaland",
+        "location": "Khonoma Village in Nagaland is India's first green village.",
+        "image": "https://static.toiimg.com/photo/78315598.cms",
+        "rating": 75,
+        "price": 2200,
+        "id": "6"
+    },
+    {
+        "name": "Coorg, Karnataka",
+        "location": "Coorg in Karnataka, also known as Kodagu.",
+        "image": "https://www.holidify.com/images/bgImages/COORG.jpg",
+        "rating": 60,
+        "price": 1500,
+        "id": "7"
+    },
+    {
+        "name": "Mawlynnong, Meghalaya",
+        "location": "Is often referred to as Asia's cleanest village.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mawlynnong_-_Cleanest_village_of_Asia.jpg",
+        "rating": 50,
+        "price": 1400,
+        "id": "8"
+    },
+    {
+        "name": "Sandakphu, West Bengal",
+        "location": "Sandakphu is the highest peak in West Bengal.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sandakphu.jpg/640px-Sandakphu.jpg",
+        "rating": 70,
+        "price": 1800,
+        "id": "9"
+    }
+]

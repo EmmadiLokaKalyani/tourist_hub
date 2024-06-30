@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Jalavihar, Hyderabad",
+        "location": "Hyderabad, Telangana",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/7e/07/jalavihar-water-park.jpg?w=1200&h=1200&s=1",
+        "rating": 50,
+        "price": 1000,
+        "id": "1"
+    },
+    {
+        "name": "Imagicca, Mumbai",
+        "location": "Khopoli, Mumbai",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/bannerpark1_20200717163309.jpg",
+        "rating": 70,
+        "price": 1700,
+        "id": "2"
+    },
+    {
+        "name": "Worlds of Wonder water park, Noida, Delhi",
+        "location": "Noida, Uttar Pradesh",
+        "image": "https://delhitourism.travel/images/places-to-visit/headers/worlds-of-wonder-amusement-water-park-noida-tourism-entry-fee-timings-holidays-reviews-headerjpg.jpg",
+        "rating": 75,
+        "price": 1500,
+        "id": "3"
+    },
+    {
+        "name": "Anandi Water Park, Uttar Pradesh",
+        "location": "Lucknow, Uttar Pradesh",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/34/9c/f5/front-view-of-slides.jpg?w=1200&h=1200&s=1",
+        "rating": 80,
+        "price": 1800,
+        "id": "4"
+    },
+    {
+        "name": "Nicco Park, Kolkata",
+        "location": "Kolkata, West Bengal",
+        "image": "https://kolkatatourism.travel/images/tourist-places/nicco-park-kolkata/nicco-park-kolkata-india-tourism-photo-gallery.jpg",
+        "rating": 80,
+        "price": 2000,
+        "id": "5"
+    },
+    {
+        "name": "Fantasy Park, Kerala",
+        "location": "Malampuzha, Kerala",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/89/85/01/fantasy-park.jpg?w=1200&h=1200&s=1",
+        "rating": 60,
+        "price": 1400,
+        "id": "6"
+    },
+    {
+        "name": "Wonder La Water Park, Bangalore",
+        "location": "Bengaluru, Karnataka",
+        "image": "https://byo-storage.s3.ap-south-1.amazonaws.com/public/og-images/fAo7dcK6XgluspqlfyNP0edTTI8pEcjWpTmOlZDn.jpg",
+        "rating": 90,
+        "price": 2100,
+        "id": "7"
+    },
+    {
+        "name": "Bluland Water Park, Andhra Pradesh",
+        "location": "Andhra Pradesh",
+        "image": "https://th.bing.com/th/id/OIP.aSa8nmyrtaEaf3Qcs9bNUwAAAA?rs=1&pid=ImgDetMain",
+        "rating": 70,
+        "price": 1700,
+        "id": "8"
+    },
+    {
+        "name": "MGM Dizzee World, Tamil Nadu",
+        "location": "Chennai, Tamil Nadu",
+        "image": "https://th.bing.com/th/id/OIP.s29U--UlFPtSDR-tw_qj1AAAAA?rs=1&pid=ImgDetMain",
+        "rating": 50,
+        "price": 1000,
+        "id": "9"
+    }
+]

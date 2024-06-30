@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Indian Handicrafts",
+        "location": "Jaipur, Rajasthan, India",
+        "image": "https://spaindustrialdesign.wordpress.com/wp-content/uploads/2020/12/1-7.jpg",
+        "rating": 85,
+        "price": 6500,
+        "id": "1"
+    },
+    {
+        "name": "KCS Handicrafts",
+        "location": "Lucknow, Uttar Pradesh, India",
+        "image": "https://www.kcsshop.in/wp-content/uploads/2022/10/kcs-390-hb-1-2.jpg",
+        "rating": 82,
+        "price": 6000,
+        "id": "2"
+    },
+    {
+        "name": "Traditional Art",
+        "location": "Pune, Maharashtra, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTheBDH6n77Bc_IMEk5VGwl8BDLIzzkU0TwE6y8t2YZ36nvIu8aHPeDTGDls_1aImVrjYc&usqp=CAU",
+        "rating": 80,
+        "price": 5500,
+        "id": "3"
+    },
+    {
+        "name": "Metal Crafts",
+        "location": "Dehradun, Uttarakhand, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvjv3QDdVJ5kZkgo7GEwMdtRzLabCgtApApZkEpSACNCml2zKrvfZN6rkFh1DWKQATXg&usqp=CAU",
+        "rating": 83,
+        "price": 6800,
+        "id": "4"
+    },
+    {
+        "name": "Rajasthani Miniature Paintings",
+        "location": "Udaipur, Rajasthan, India",
+        "image": "https://indiachalk.com/wp-content/uploads/2022/06/httpswww.canva_.comdesignDAFAwbUDdC4uB_5NulenFRy4JRhrp3uTQedit-69.jpg",
+        "rating": 87,
+        "price": 7000,
+        "id": "5"
+    },
+    {
+        "name": "Pochampally sarees",
+        "location": "Jaipur, Rajasthan, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpiBTZMUFUCpOTJFhhzGn-4UrA9e8PrUviD-1Q0gC_5YaljtISZdd7dZJPJZ0mhCHKpr8&usqp=CAU",
+        "rating": 86,
+        "price": 6900,
+        "id": "6"
+    },
+    {
+        "name": "Antique jewelry",
+        "location": "Agra, Uttar Pradesh, India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Satlada.jpg/800px-Satlada.jpg",
+        "rating": 84,
+        "price": 6600,
+        "id": "7"
+    },
+    {
+        "name": "Heritage Artifacts",
+        "location": "Jaipur, Rajasthan, India",
+        "image": "https://theheritageartifacts.com/cdn/shop/products/DSC_3520_97b0143d-97f5-4865-8ed6-4ac8188dcf1f_700x934.jpg?v=1679313459",
+        "rating": 81,
+        "price": 6200,
+        "id": "8"
+    }
+]

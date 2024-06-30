@@ -1,0 +1,75 @@
+
+[
+    {
+        "name": "Magnetic Fields, Rajasthan",
+        "location": "Rajasthan",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/magnetic-fields-festival-1920-high_20170828163301.jpg",
+        "rating": 85,
+        "price": 4500,
+        "id": "1"
+    },
+    {
+        "name": "Ragasthan, Jaisalmer",
+        "location": "Jaisalmer, Rajasthan",
+        "image": "https://www.rajasthandirect.com/wp-content/uploads/2012/12/Gair-Dance-Rajasthan.jpg",
+        "rating": 80,
+        "price": 3650,
+        "id": "2"
+    },
+    {
+        "name": "Mahindra Blues, Mumbai",
+        "location": "Mumbai, Maharashtra",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/03-Mahindra-Blues-Festival1_20170828183535.jpg",
+        "rating": 90,
+        "price": 6225,
+        "id": "3"
+    },
+    {
+        "name": "Storm, Bangalore",
+        "location": "Bangalore, Karnataka",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Storm_20170828184605.jpg",
+        "rating": 88,
+        "price": 5000,
+        "id": "4"
+    },
+    {
+        "name": "Sula Fest, Nasik",
+        "location": "Nasik, Maharashtra",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/5_20170828191646.jpg",
+        "rating": 85,
+        "price": 3700,
+        "id": "5"
+    },
+    {
+        "name": "Kasauli Rhythm, Kasauli",
+        "location": "Kasauli, Himachal Pradesh",
+        "image": "https://www.indiaeve.com/images/events/Event891544416Img.jpg",
+        "rating": 82,
+        "price": 4000,
+        "id": "6"
+    },
+    {
+        "name": "Shiva Squad Festival, Manali",
+        "location": "Manali, Himachal Pradesh",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/himslead_20170828193806.jpg",
+        "rating": 90,
+        "price": 5500,
+        "id": "7"
+    },
+    {
+        "name": "GoMad Fest, Ooty",
+        "location": "Ooty, Tamil Nadu",
+        "image": "https://media.assettype.com/indulgexpress%2Fimport%2F2018%2F1%2F11%2Foriginal%2FGrey_Shack1.jpg?w=1200&auto=format%2Ccompress&fit=max",
+        "rating": 85,
+        "price": 4750,
+        "id": "8"
+    },
+    {
+        "name": "Holi Cow, New Delhi",
+        "location": "New Delhi, Delhi",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Event45437815Img_20170828194257.jpg",
+        "rating": 88,
+        "price": 3000,
+        "id": "9"
+    }
+]

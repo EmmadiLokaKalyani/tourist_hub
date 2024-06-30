@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Chadar Trek, Ladakh",
+        "location": "An exhilarating winter trek",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBB4S-Bqo6fyShKJ7ZY6PdeHXHZkDUD7TEg&s",
+        "rating": 55,
+        "price": "1200",
+        "id": "1"
+    },
+    {
+        "name": "White River Rafting, Rishikesh",
+        "location": "Provides an adrenaline-pumping experience.",
+        "image": "https://res.cloudinary.com/whistler/image/upload/w_500,c_scale,dpr_3.0,q_auto/v1/s3/images/header/whitewater-rafting-tours-4.jpg",
+        "rating": 70,
+        "price": 1600,
+        "id": "2"
+    },
+    {
+        "name": "Scuba Diving, Andaman",
+        "location": "A thrilling underwater adventure",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Buzo.jpg",
+        "rating": 95,
+        "price": 2500,
+        "id": "3"
+    },
+    {
+        "name": "Skiing in Gulmarg, J&K",
+        "location": "Offers thrilling slopes",
+        "image": "https://www.trawell.in/admin/images/upload/206750820skiing%20(1).jpg",
+        "rating": 50,
+        "price": 1300,
+        "id": "4"
+    },
+    {
+        "name": "Hot Air Ballooning, Jaipur",
+        "location": "Provides a unique aerial view of the city's palaces",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/280815150318-Jaipur-Fort-Flight_20171101152357.jpg",
+        "rating": 90,
+        "price": 2000,
+        "id": "5"
+    },
+    {
+        "name": "Flying Fox Adventure in Neemrana",
+        "location": "Offers an exhilarating zip-lining experience",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/eb/95/48/astounding-views.jpg?w=800&h=600&s=1",
+        "rating": 60,
+        "price": 1500,
+        "id": "6"
+    },
+    {
+        "name": "Rock Climbing in Satpura",
+        "location": "An adventurous rock climbing destination",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKle-SsaaAuWI7K6X4SFNoGsNd5NcNx_f4tg&s",
+        "rating": 50,
+        "price": 1000,
+        "id": "7"
+    },
+    {
+        "name": "Wildlife Safari in Gir National Park",
+        "location": "An exciting wildlife safari experience",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16-RRtwF569g97pIl7Ynjo1lkMyH5QdakhQ&s",
+        "rating": 85,
+        "price": 1900,
+        "id": "8"
+    },
+    {
+        "name": "Microlight Flying, Bangalore",
+        "location": "Offers a thrilling aerial adventure",
+        "image": "https://media1.thrillophilia.com/filestore/04mo112sofjicc4u6fpzm0nzsb5t_29flsWUnR3Wf2S82ggxUxw_thumb_69b8.jpg",
+        "rating": 60,
+        "price": 1700,
+        "id": "9"
+    }
+]

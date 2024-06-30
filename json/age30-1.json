@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Udaipur, Rajasthan",
+        "location": "Explore the heritage of Udaipur, Rajasthan.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2z5ZYjWzYkxGAaWJJqTJQasyN83yeh3eBqdm49JsQG3Ck8X02AJtT5sQJXyomBTBAsJg&usqp=CAU",
+        "rating": 65,
+        "price": 8000,
+        "id": "1"
+    },
+    {
+        "name": "Deoki Niwas Palace, Jaisalmer",
+        "location": "Experience the charm of Deoki Niwas Palace in Jaisalmer.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/6b/04/2d/hotel-deoki-niwas-palace.jpg?w=1200&h=-1&s=1",
+        "rating": 79,
+        "price": 10000,
+        "id": "2"
+    },
+    {
+        "name": "Udai Vilas Palace, Bharatpur",
+        "location": "Visit the majestic Udai Vilas Palace in Bharatpur.",
+        "image": "https://gos3.ibcdn.com/bd982cbe5fd911e8897302759150dc0a.jpg",
+        "rating": 90,
+        "price": 12000,
+        "id": "3"
+    },
+    {
+        "name": "Mihir Garh, Jodhpur",
+        "location": "Discover the luxury of Mihir Garh in Jodhpur.",
+        "image": "https://s.wsj.net/public/resources/images/BN-BO503_ifort2_D_20140218081736.jpg",
+        "rating": 96,
+        "price": 9000,
+        "id": "4"
+    },
+    {
+        "name": "Pushkar Heritage, Pushkar",
+        "location": "Immerse yourself in Pushkar Heritage in Pushkar.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/c2/5e/1e/pushkar-heritage.jpg?w=700&h=-1&s=1",
+        "rating": 85,
+        "price": 7000,
+        "id": "5"
+    },
+    {
+        "name": "Oberoi Amar Vilas, Agra",
+        "location": "Experience luxury at Oberoi Amar Vilas in Agra.",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "rating": 75,
+        "price": 11000,
+        "id": "6"
+    },
+    {
+        "name": "Hotel Lake Palace Resort, Alleppey",
+        "location": "Relax at Hotel Lake Palace Resort in Alleppey.",
+        "image": "https://gos3.ibcdn.com/4b2badf8c58711e992480242ac110002.jpg",
+        "rating": 70,
+        "price": 6000,
+        "id": "7"
+    },
+    {
+        "name": "Poovar Island Resort",
+        "location": "Enjoy nature at Poovar Island Resort.",
+        "image": "https://www.kovalam.com/PoovarIsland/poovarislandresort-kovalam-kerala-india/banner.jpg",
+        "rating": 60,
+        "price": 8000,
+        "id": "8"
+    },
+    {
+        "name": "The Promenade, Pondicherry",
+        "location": "Experience coastal charm at The Promenade in Pondicherry.",
+        "image": "https://cdn0.weddingwire.in/vendor/6317/3_2/960/jpg/wedding-venue-the-promenade-facade-2_15_356317-160623510071141.jpeg",
+        "rating": 0,
+        "price": 5000,
+        "id": "9"
+    }
+]

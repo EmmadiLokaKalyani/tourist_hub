@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Well-Preserved Heritage Village",
+        "location": "Jaipur, Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gkz6vF8LYeSNduncO2vsl19qRnrtYn2EOl9SvJwvu19xhsojTXPAn14KFOSVc4hrBdY&usqp=CAU",
+        "rating": 90,
+        "price": 500,
+        "id": "1"
+    },
+    {
+        "name": "Picturesque Heritage Village",
+        "location": "Udaipur, Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO25nR_rTJeZFDMSEGCAE0YT0FJlGlgIt6Oz3LSIxxfD0B-0arLxTtac9uD2siijL-br8&usqp=CAU",
+        "rating": 88,
+        "price": 600,
+        "id": "2"
+    },
+    {
+        "name": "Historical Heritage Village",
+        "location": "Mysore, Karnataka",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNW-88RtVa3ySwixbvYva7lE0XOqqaQt_-Gpvx9HtmVehnEB0DT8VImprOOalWJ_M64qU&usqp=CAU",
+        "rating": 85,
+        "price": 700,
+        "id": "3"
+    },
+    {
+        "name": "Ancient Heritage Village",
+        "location": "Varanasi, Uttar Pradesh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO81V1bp0N5B2lgjI6DBXrSbiz8O4BDsovsRiMkYMFUeTkS5NFPbFFOX8myrTYRtsvCCU&usqp=CAU",
+        "rating": 87,
+        "price": 800,
+        "id": "4"
+    },
+    {
+        "name": "Brihadishwara Temple, Tamil Nadu",
+        "location": "Thanjavur, Tamil Nadu, India",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/BrihadishwaraTemple_20180314111033.jpg",
+        "rating": 92,
+        "price": 900,
+        "id": "5"
+    },
+    {
+        "name": "Heritage Village View",
+        "location": "Jaipur, Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUM-Gc7vx_gYrcwLeibNdC8ipM7kz5ATtr8Y9cZcJ2XGZioKBzMHvGIOdPlEdZMQ1s98&usqp=CAU",
+        "rating": 86,
+        "price": 1000,
+        "id": "6"
+    },
+    {
+        "name": "Scenic Heritage Village",
+        "location": "Munnar, Kerala",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQygbztWTBWboYCNvSjUAHVAVkQpTXOWuZHk8zdQP_Dc5CbPUBeivjE_3a91QofgOlaKyA&usqp=CAU",
+        "rating": 89,
+        "price": 1100,
+        "id": "7"
+    },
+    {
+        "name": "Traditional Heritage Village",
+        "location": "Udaipur, Rajasthan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyPwWyQ_cUCdzz4x7PD0z5XSpTbh-9zywYhl8WnO-ay3P_jb626LDYcsHa2n3pRmwnQI&usqp=CAU",
+        "rating": 84,
+        "price": 1200,
+        "id": "8"
+    },
+    {
+        "name": "Serene Majuli Island",
+        "location": "Majuli, Assam, India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Doriya_River_of_Majuli.jpg",
+        "rating": 85,
+        "price": 800,
+        "id": "9"
+    }
+]

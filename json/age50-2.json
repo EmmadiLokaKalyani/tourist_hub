@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Kairali Ayurvedic Health Village",
+        "location": "India",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b3/bd/4c/kairali-ayurvedic-health.jpg?w=700&h=-1&s=1",
+        "rating": 92,
+        "price": 8500,
+        "id": "1"
+    },
+    {
+        "name": "Somatheeram Ayurveda Village",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYQYuksbffKnp2gXC6Xq2Kfcvn4FnaMHk1R-CHNzJSttVZlMZ8HaZqc9XY2ITwwdTuSc&usqp=CAU",
+        "rating": 88,
+        "price": 7500,
+        "id": "2"
+    },
+    {
+        "name": "Ayurvedagram Heritage Wellness Center",
+        "location": "India",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b1/91/74/admin-block.jpg?w=700&h=-1&s=1",
+        "rating": 90,
+        "price": 9000,
+        "id": "3"
+    },
+    {
+        "name": "The Leela Palace Udaipur",
+        "location": "Udaipur, India",
+        "image": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1430903499/Domestic%20Hotels/Hotels_Udaipur/The%20Leela%20Palace%20Udaipur/exterior_dusk.jpg",
+        "rating": 85,
+        "price": 8000,
+        "id": "4"
+    },
+    {
+        "name": "Ananda in the Himalayas",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_4engDJqeW5s8kYrbNJCcBvBu7zM5OGXcc3F4BDd5hw__TWNM4MYYI979bk2_UTFgLOo&usqp=CAU",
+        "rating": 87,
+        "price": 7800,
+        "id": "5"
+    },
+    {
+        "name": "Vana Wellness Retreat",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRHLikDA0H8eJKU1H8WGc9_paRdXBJLO8kYOqfEn3IrRBjCETzCndnn4bAjJK7ofVxas&usqp=CAU",
+        "rating": 89,
+        "price": 9500,
+        "id": "6"
+    },
+    {
+        "name": "Atmantan Wellness Resort",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR164bQqjE0bK5SkrO1RKyh-RxmYfA-WkscbLrqGeREjJUHP-Wd1C9T4RFZNC2SzO8aMr8&usqp=CAU",
+        "rating": 91,
+        "price": 9800,
+        "id": "7"
+    },
+    {
+        "name": "Kalari Kovilakom Ayurveda Resort",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxeFj3HTpSmNcYdDJmMYRZIdYThV2gCn8pLvMAb-dhXVDoJa991dvsW0ae0zMZwy-ubM&usqp=CAU",
+        "rating": 86,
+        "price": 7200,
+        "id": "8"
+    },
+    {
+        "name": "Carnoustie Ayurveda & Wellness Resort",
+        "location": "India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZY50RDr5o0UthpChR5h9ZpAaAalB3boPoTDq-mrT_wyHWY5T20JcBLpne_pEZ8BtolLE&usqp=CAU",
+        "rating": 84,
+        "price": 6900,
+        "id": "9"
+    }
+]

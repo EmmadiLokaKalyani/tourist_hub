@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Ooty",
+        "location": "Ooty, Tamil Nadu",
+        "image": "https://th.bing.com/th/id/OIP.daGnfZhqD2LmIx0P-BUeUQHaEK?rs=1&pid=ImgDetMain",
+        "rating": 95,
+        "price": 8000,
+        "id": "1"
+    },
+    {
+        "name": "Mukteshwar",
+        "location": "Mukteshwar, Uttarakhand",
+        "image": "https://s4.scoopwhoop.com/anj2/5fdc552360c06059729a0649/dd653e07-b100-4134-b695-f5898df8901e.jpg",
+        "rating": 85,
+        "price": 10000,
+        "id": "2"
+    },
+    {
+        "name": "Kalpa",
+        "location": "Kalpa, Himachal Pradesh",
+        "image": "https://static.toiimg.com/photo/msid-93246451,width-96,height-65.cms",
+        "rating": 90,
+        "price": 9000,
+        "id": "3"
+    },
+    {
+        "name": "Tehri Garhwal",
+        "location": "Tehri Garhwal, Uttarakhand",
+        "image": "https://chaloghumane.com/wp-content/uploads/2021/08/Tehri-Garhwal.jpg",
+        "rating": 80,
+        "price": 7000,
+        "id": "4"
+    },
+    {
+        "name": "Munnar",
+        "location": "Munnar, Kerala",
+        "image": "https://th.bing.com/th/id/R.5f201d704fdb8dc6ce77e2fa1f51531f?rik=g7hhZJN6YIxXSg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-zLz7QCv68kM%2fUy2D7pnJloI%2fAAAAAAAACZA%2f1JoZ1DWASN0%2fs1600%2fMunnar_Hill_Station.JPG&ehk=8DgZ2ab7sM%2bN7d17CSVkMRELNEU5nZKF5HxxdkamEqs%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 88,
+        "price": 9500,
+        "id": "5"
+    },
+    {
+        "name": "Huilekere House",
+        "location": "Huilekere, Karnataka",
+        "image": "https://th.bing.com/th/id/OIP.WwrxvWNgKW-FPzK49xg6LQHaE-?rs=1&pid=ImgDetMain",
+        "rating": 70,
+        "price": 6000,
+        "id": "6"
+    },
+    {
+        "name": "Anantya Resorts",
+        "location": "Kanyakumari, Tamil Nadu",
+        "image": "https://static.wixstatic.com/media/676cbb_8f15cb4b519845d0bcdc2eefdc822d99~mv2.jpg/v1/fit/w_980,h_552,q_90/676cbb_8f15cb4b519845d0bcdc2eefdc822d99~mv2.jpg",
+        "rating": 82,
+        "price": 12000,
+        "id": "7"
+    },
+    {
+        "name": "Jim's Jungle Retreat",
+        "location": "Jim Corbett National Park, Uttarakhand",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e5/3a/3f/carpet-sahib-cafe.jpg?w=700&h=-1&s=1",
+        "rating": 90,
+        "price": 13000,
+        "id": "8"
+    },
+    {
+        "name": "Coorg Homestay",
+        "location": "Coorg, Karnataka",
+        "image": "https://c2.staticflickr.com/8/7012/6837472717_67a8b29949_b.jpg",
+        "rating": 75,
+        "price": 7000,
+        "id": "9"
+    }
+]

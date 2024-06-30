@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Salar Jung Museum, Hyderabad",
+        "location": "Hyderabad, Telangana",
+        "image": "https://th.bing.com/th/id/OIP.RozhrHLpwbCJjL6Oi6NyVQAAAA?rs=1&pid=ImgDetMain",
+        "rating": 85,
+        "price": 150,
+        "id": "1"
+    },
+    {
+        "name": "National Museum, Delhi",
+        "location": "Delhi",
+        "image": "https://th.bing.com/th/id/OIP.SKvfxuWfxmthgDL3kPaDFAAAAA?rs=1&pid=ImgDetMain",
+        "rating": 90,
+        "price": 200,
+        "id": "2"
+    },
+    {
+        "name": "Indian Museum, Kolkata",
+        "location": "Kolkata, West Bengal",
+        "image": "https://kolkatatourism.travel/images/places-to-visit/headers/indian-museum-kolkata-entry-fee-timings-holidays-reviews-header.jpg",
+        "rating": 88,
+        "price": 100,
+        "id": "3"
+    },
+    {
+        "name": "Visvesvaraya Industrial & Technological Museum, Bangalore",
+        "location": "Bengaluru, Karnataka",
+        "image": "https://th.bing.com/th/id/R.f78c832e8fbd14c0be73aa55e04ea759?rik=Kxk1PsVbVoOu%2bQ&riu=http%3a%2f%2fphotos.wikimapia.org%2fp%2f00%2f03%2f34%2f08%2f62_big.jpg&ehk=5Eo071O8oS1lbl21%2fp%2bFsDo3C%2fdXBZJ8bNvMCN9Knpw%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 92,
+        "price": 250,
+        "id": "4"
+    },
+    {
+        "name": "Patna Museum, Patna",
+        "location": "Patna, Bihar",
+        "image": "https://image3.mouthshut.com/images/imagesp/925739985s.jpg",
+        "rating": 80,
+        "price": 100,
+        "id": "5"
+    },
+    {
+        "name": "Albert Hall Museum, Jaipur",
+        "location": "Jaipur, Rajasthan",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7a/c9/89/photo0jpg.jpg?w=1200&h=-1&s=1",
+        "rating": 85,
+        "price": 300,
+        "id": "6"
+    },
+    {
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai",
+        "location": "Mumbai, Maharashtra",
+        "image": "https://fineartsconservationinc.com/wp-content/uploads/2016/07/CSMVS.jpg",
+        "rating": 95,
+        "price": 500,
+        "id": "7"
+    },
+    {
+        "name": "Calico Museum of Textiles, Ahmedabad, Gujarat",
+        "location": "Ahmedabad, Gujarat",
+        "image": "https://dynamic.tourtravelworld.com/hotspot-images/calico-museumof-textiles-4551.jpg",
+        "rating": 90,
+        "price": 400,
+        "id": "8"
+    },
+    {
+        "name": "Dakshinachitra Museum, Chennai",
+        "location": "Chennai, Tamil Nadu",
+        "image": "https://static-blog.treebo.com/wp-content/uploads/2017/08/DakshinaChitra-Museum.jpg",
+        "rating": 88,
+        "price": 350,
+        "id": "9"
+    }
+]

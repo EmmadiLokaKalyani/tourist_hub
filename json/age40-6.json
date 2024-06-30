@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Bharatpur Bird Sanctuary",
+        "location": "Rajasthan",
+        "image": "https://static.toiimg.com/photo/msid-105069697,width-96,height-65.cms",
+        "rating": 85,
+        "price": 1200,
+        "id": "1"
+    },
+    {
+        "name": "Darjeeling Hills Bird Watching",
+        "location": "West Bengal",
+        "image": "https://www.naturesafariindia.com/wp-content/uploads/2021/06/North-East-Birding.jpg",
+        "rating": 90,
+        "price": 1500,
+        "id": "2"
+    },
+    {
+        "name": "Dihing Patkai",
+        "location": "Assam",
+        "image": "https://www.indiabirdwatching.com/wp-content/uploads/2022/01/Dihing-Patkai-Wildlife-Sanctuary1.jpg.webp",
+        "rating": 80,
+        "price": 1000,
+        "id": "3"
+    },
+    {
+        "name": "Eaglenest Bird Sanctuary",
+        "location": "Arunachal Pradesh",
+        "image": "https://www.wildvoyager.com/uploads/featured/content/87-966.jpg",
+        "rating": 88,
+        "price": 1400,
+        "id": "4"
+    },
+    {
+        "name": "Khichan Bird Sanctuary",
+        "location": "Rajasthan",
+        "image": "https://www.indiabirdwatching.com/wp-content/uploads/2022/01/Khichan2.jpg",
+        "rating": 82,
+        "price": 1100,
+        "id": "5"
+    },
+    {
+        "name": "Little Rann of Kutch",
+        "location": "Gujarat",
+        "image": "https://www.bhavnafarm.com/wp-content/uploads/2019/06/liitle-rann-banner-1.jpg",
+        "rating": 87,
+        "price": 1300,
+        "id": "6"
+    },
+    {
+        "name": "Chambal",
+        "location": "Uttar Pradesh",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201804/01Fir22-3_647-x363.jpg?.bEWIsfQho5rbrdzuD2tWY5KVPYrOzNU",
+        "rating": 78,
+        "price": 1000,
+        "id": "7"
+    },
+    {
+        "name": "Nameri National Park",
+        "location": "Assam",
+        "image": "https://www.insideindianjungles.com/wp-content/uploads/2019/07/nameri-1.jpg",
+        "rating": 85,
+        "price": 1200,
+        "id": "8"
+    },
+    {
+        "name": "Singalila National Park",
+        "location": "West Bengal",
+        "image": "https://www.indiabirdwatching.com/wp-content/uploads/2022/01/Singalila-National-Park1.jpg",
+        "rating": 89,
+        "price": 1400,
+        "id": "9"
+    }
+]

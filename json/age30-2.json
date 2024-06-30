@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Tagore House",
+        "location": "Jorasanko Thakurbari, Kolkata",
+        "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/23/4be75288b599cbf5bed6f8279e99c466_1000x1000.jpg",
+        "rating": 80,
+        "price": 1000,
+        "id": "1"
+    },
+    {
+        "name": "R.K Narayan House",
+        "location": "Mysore, Karnataka",
+        "image": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2016/08/06/Photos/Leisure/narayanhouse-krpE--621x414@LiveMint.jpg",
+        "rating": 60,
+        "price": 700,
+        "id": "2"
+    },
+    {
+        "name": "Gandhi Smriti",
+        "location": "New Delhi",
+        "image": "https://cdn.getyourguide.com/img/tour/e42103246bc74853521bdab89bb06b9dd005c4707ac3dbe952c8180dfd439b7d.jpg/145.jpg",
+        "rating": 59,
+        "price": 900,
+        "id": "3"
+    },
+    {
+        "name": "Jawaharlal Nehru's Teen Murti House",
+        "location": "New Delhi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Teen_murti_bhawan_22.jpg",
+        "rating": 70,
+        "price": 800,
+        "id": "4"
+    },
+    {
+        "name": "The House of Premchand",
+        "location": "Varanasi, Uttar Pradesh",
+        "image": "https://www.jagranimages.com/images/newimg/13042021/13_04_2021-munshi_premchand_residence_21553516.jpg",
+        "rating": 76,
+        "price": 600,
+        "id": "5"
+    },
+    {
+        "name": "Ruskin Bond's Home",
+        "location": "Mussoorie, Uttarakhand",
+        "image": "https://static.toiimg.com/img/75821883/Master.jpg",
+        "rating": 65,
+        "price": 1100,
+        "id": "6"
+    },
+    {
+        "name": "Salman Rushdie's Childhood Home",
+        "location": "Mumbai, Maharashtra",
+        "image": "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2023/12/23/27-Windsor-Villa-Salman-Rushdies-childhood-home-in-Mumbai.jpg.transform/schema-16x9/image.jpg",
+        "rating": 50,
+        "price": 1200,
+        "id": "7"
+    },
+    {
+        "name": "Sarojini Naidu's Residence",
+        "location": "Hyderabad, Telangana",
+        "image": "https://assets.thehansindia.com/h-upload/2019/11/05/232601-2019-11-05-a.webp",
+        "rating": 89,
+        "price": 1000,
+        "id": "8"
+    },
+    {
+        "name": "Kamala Das' House",
+        "location": "Kerala",
+        "image": "https://www.punnayoorkkulam.com/images/inner-images/culture-Kamala-Surayya.jpg?d=100320233",
+        "rating": 90,
+        "price": 700,
+        "id": "9"
+    }
+]

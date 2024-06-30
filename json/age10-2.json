@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Kaziranga National Park, Assam",
+        "location": "Kohora, Assam",
+        "image": "https://blog.thomascook.in/wp-content/uploads/2018/05/a-unesco-world-heritage.jpg",
+        "rating": 90,
+        "price": 1200,
+        "id": "1"
+    },
+    {
+        "name": "Sundarbans National Park, West Bengal",
+        "location": "South 24 Parganas, West Bengal",
+        "image": "https://static-blog.treebo.com/wp-content/uploads/2020/03/Royal-Bengal-Tiger.jpg",
+        "rating": 85,
+        "price": 1100,
+        "id": "2"
+    },
+    {
+        "name": "Gir National Park, Gujarat",
+        "location": "Sasan Gir, Gujarat",
+        "image": "https://th.bing.com/th/id/OIP.WNw5XeOaTiGVFWnEk39MIQHaEC?rs=1&pid=ImgDetMain",
+        "rating": 80,
+        "price": 1000,
+        "id": "3"
+    },
+    {
+        "name": "Pench National Park, Madhya Pradesh",
+        "location": "Seoni, Madhya Pradesh",
+        "image": "https://th.bing.com/th/id/OIP.BSZU0nRYwsvZgmmispa8rAHaEK?rs=1&pid=ImgDetMain",
+        "rating": 75,
+        "price": 950,
+        "id": "4"
+    },
+    {
+        "name": "Hemis National Park, Ladakh",
+        "location": "Leh, Ladakh",
+        "image": "https://www.indiatravelblog.com/attachments/resources/6392-1-Hemis-National-Park.jpg",
+        "rating": 85,
+        "price": 1100,
+        "id": "5"
+    },
+    {
+        "name": "Valmiki National Park, Bihar",
+        "location": "West Champaran, Bihar",
+        "image": "https://th.bing.com/th/id/R.735d59b44ef5733594ba262f19ab575c?rik=mtDZrN8sNZ8Peg&riu=http%3a%2f%2fwww.india.com%2fwp-content%2fuploads%2f2015%2f06%2fincredible-india-elephant.jpg&ehk=JY7ntvDgPk9Aq4moN5YAb2Ff%2bf2oc2YdJRqpIElARC4%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 70,
+        "price": 800,
+        "id": "6"
+    },
+    {
+        "name": "Betla National Park, Jharkhand",
+        "location": "Latehar, Jharkhand",
+        "image": "https://wordzz.com/wp-content/uploads/2023/04/Betla-National-Park.jpeg",
+        "rating": 75,
+        "price": 900,
+        "id": "7"
+    },
+    {
+        "name": "Papikonda National Park, Andhra Pradesh",
+        "location": "Rajahmundry, Andhra Pradesh",
+        "image": "https://riderdream.com/wp-content/uploads/2023/01/papikonda-national-park-1.jpg",
+        "rating": 70,
+        "price": 850,
+        "id": "8"
+    },
+    {
+        "name": "Mrugavani National Park, Telangana",
+        "location": "Chilkur, Hyderabad, Telangana",
+        "image": "https://assets.thehansindia.com/hansindia-bucket/4259_National%20park.jpg",
+        "rating": 65,
+        "price": 700,
+        "id": "9"
+    }
+]

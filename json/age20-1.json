@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Varca Beach, South Goa",
+        "location": "Varca Beach in Goa is known for its serene",
+        "image": "https://goa-tourism.org.in/images/places-to-visit/headers/varca-beach-goa-timings-entry-fee-goa-tourism-header-cr-traveling-camera.jpg",
+        "rating": 50,
+        "price": 1640,
+        "id": "1"
+    },
+    {
+        "name": "Rishikonda Beach",
+        "location": "Located in Visakhapatnam.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Rushikonda_beach_view_001.jpg",
+        "rating": 75,
+        "price": 1500,
+        "id": "2"
+    },
+    {
+        "name": "Gokarna, Karnataka",
+        "location": "coastal town in Karnataka, is famous for its pristine beaches",
+        "image": "https://karnatakatourism.org/wp-content/uploads/2020/06/Om-Beach-portrait.jpg",
+        "rating": 50,
+        "price": 1300,
+        "id": "3"
+    },
+    {
+        "name": "VGP Golden Beach, Chennai",
+        "location": "An amusement park and clean beachfront.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-p/0e/47/86/1e/vgp-golden-beach.jpg",
+        "rating": 55,
+        "price": 1600,
+        "id": "4"
+    },
+    {
+        "name": "Alleppey, Kerala",
+        "location": "Alleppey, also known as Alappuzha.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alleppey_beach.jpg/1200px-Alleppey_beach.jpg",
+        "rating": 90,
+        "price": 2200,
+        "id": "5"
+    },
+    {
+        "name": "Alibaug Beach, Maharashtra",
+        "location": "A getaway from Mumbai.",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-144e60f7d42ff15b6ba3baa72d37cb69-lq",
+        "rating": 80,
+        "price": 2000,
+        "id": "6"
+    },
+    {
+        "name": "Puri Beach, Odisha",
+        "location": "Odisha is famous for its golden sands.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Puri_Sea_Beach_viewed_from_the_light_house.jpg/1200px-Puri_Sea_Beach_viewed_from_the_light_house.jpg",
+        "rating": 60,
+        "price": 1500,
+        "id": "7"
+    },
+    {
+        "name": "Marina Beach, Tamilnadu",
+        "location": "Is the longest beaches in the world.",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2d/03/1c.jpg",
+        "rating": 70,
+        "price": 1800,
+        "id": "8"
+    },
+    {
+        "name": "Dwarka Beach, Gujarat",
+        "location": "Dwarka Beach in Gujarat is known for its clear waters.",
+        "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/destinations/dwarka/beaches/shivrajpur-beac.jpg",
+        "rating": 60,
+        "price": 1500,
+        "id": "9"
+    }
+]

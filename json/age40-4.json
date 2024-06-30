@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Mahabalipuram",
+        "location": "Tamil Nadu",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/200581310_20210122150633.jpg",
+        "rating": 85,
+        "price": 4500,
+        "id": "1"
+    },
+    {
+        "name": "Kovalam",
+        "location": "Kerala",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/226314283_20210122151200.jpg",
+        "rating": 90,
+        "price": 5000,
+        "id": "2"
+    },
+    {
+        "name": "Pondicherry",
+        "location": "Puducherry",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/2c/3f/4a/67/exterior.jpg",
+        "rating": 80,
+        "price": 4000,
+        "id": "3"
+    },
+    {
+        "name": "Varkala",
+        "location": "Kerala",
+        "image": "https://im.whatshot.in/img/2023/Jun/istock-1141255604-1686717826.jpg?q=90",
+        "rating": 88,
+        "price": 5000,
+        "id": "4"
+    },
+    {
+        "name": "Vizag",
+        "location": "Andhra Pradesh",
+        "image": "https://sunrayvillageresort.com/blog/admin/assets/img/post/image_2023-09-25-07-20-34_651134c297b97.jpg",
+        "rating": 75,
+        "price": 4500,
+        "id": "5"
+    },
+    {
+        "name": "Puri",
+        "location": "Odisha",
+        "image": "https://media1.thrillophilia.com/filestore/0alk8ejy45o2qyujcu34xhz0qb7v_1592315006_shutterstock_740788087_(1).jpg",
+        "rating": 92,
+        "price": 5000,
+        "id": "6"
+    },
+    {
+        "name": "Kanyakumari",
+        "location": "Tamil Nadu",
+        "image": "https://img.veenaworld.com/wp-content/uploads/2021/06/8-Pristine-Beaches-in-Kanyakumari-Worth-Visiting.jpeg",
+        "rating": 85,
+        "price": 4500,
+        "id": "7"
+    },
+    {
+        "name": "Rameshwaram",
+        "location": "Tamil Nadu",
+        "image": "https://static.toiimg.com/photo/58104818.cms",
+        "rating": 88,
+        "price": 5000,
+        "id": "8"
+    },
+    {
+        "name": "Mumbai",
+        "location": "Maharashtra",
+        "image": "https://static.toiimg.com/photo/msid-84645485,width-96,height-65.cms",
+        "rating": 80,
+        "price": 4000,
+        "id": "9"
+    }
+]
