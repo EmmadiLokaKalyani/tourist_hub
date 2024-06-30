@@ -36,13 +36,17 @@ function login(obj) {
         .then((data) => {
             console.log(data);
             let found = false;
+            let emailExists = false;
             let status = false;
             let username;
 
             data.forEach((e) => {
-                if (e.email == obj.email && e.password == obj.password) { // Corrected the password key
-                    found = true;
-                    username = e.name;
+                if (e.email == obj.email) {
+                    emailExists = true;
+                    if (e.password == obj.password) {
+                        found = true;
+                        username = e.name;
+                    }
                 }
             });
 
@@ -54,9 +58,10 @@ function login(obj) {
                 localStorage.setItem("username", username);
                 localStorage.setItem("logStatus", status);
                 window.open("../index.html");
+            } else if (emailExists) {
+                alert("Wrong password. Please try again.");
             } else {
-                console.log(status);
-                alert("Wrong username or password");
+                alert("Email not found. Please register before logging in.");
             }
         })
         .catch((error) => {
